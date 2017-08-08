@@ -1,5 +1,3 @@
-# ruby-on-rails
-
 ### Requirement:
 
 1. Memiliki pengetahuan tentang Linux
