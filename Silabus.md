@@ -20,7 +20,9 @@
 
 4. Hello, Ruby!
 
-#### Sesi 2 - Assignment dan Condition
+#### Sesi 2 - Variable, Assignment dan Condition
+
+0. [Slide Presentasi](http://slides.com/qblfrb/assignment-dan-condition?token=aHRN46jI)
 
 1. Assignment
 
