@@ -18,7 +18,7 @@
    Branch Management  
    Branch Workflow
 
-4. Hello World
+4. Hello, Ruby!
 
 #### Sesi 2 - Assignment dan Condition
 
@@ -190,21 +190,40 @@
 
 # Minggu 3-6: Dasar-Dasar Ruby on Rails
 
-## Minggu 3 - 
- 
-## Minggu 4 - 
+## Minggu 3 - Pengenalan Ruby on Rails dan Konsep MVC Framework
 
-# Minggu 5-8: Dasar-Dasar Ruby on Rails, Bagian Pertama
+### Hari 1
 
-## Minggu 5 - Pengenalan Ruby on Rails dan Konsep MVC Framework
-
-### Hari 1 - Introduksi
+#### Sesi 1 - Introduksi
 
 1. Filosofi dan Sejarah Singkat Ruby on Rails
 2. Persiapan
-3. Aplikasi Rails Pertamamu
+3. Penjelasan Mengenai Tugas Besar
 
-### Hari 2 - Active Record, Migrasi, Validasi, dan Callback
+#### Sesi 2 - Aplikasi Rails Pertamamu
+
+1. Hello, Rails!
+2. Arsitektur Aplikasi Rails
+
+### Hari 2
+
+### Hari 3
+
+### Hari 4
+
+### Hari 5
+ 
+## Minggu 4 - 
+
+## Minggu 5 - 
+
+## Minggu 6 - 
+
+# Minggu 7-10: Lebih Dalam Tentang Ruby on Rails
+
+## Minggu 7 - 
+
+### Hari 1 - Active Record, Migrasi, Validasi, dan Callback
 
 1. Memahami Active Record
 2. Migrasi
@@ -215,7 +234,7 @@
 3. Validasi
 4. Callback
 
-### Hari 3 - Asosiasi
+### Hari 2 - Asosiasi
 
 1. Asosiasi One-to-One dengan `has_one`
 2. Asosiasi One-to-Many dengan `has_many`
@@ -224,7 +243,7 @@
 5. Asosiasi Polymorphic
 6. Self Joins
 
-### Hari 4 - Active Record Query Interface, Bagian Pertama
+### Hari 3 - Active Record Query Interface, Bagian Pertama
 
 1. Membaca dari Database
 2. Kondisi
@@ -232,7 +251,7 @@
 4. Grup
 5. Kalkulasi
 
-### Hari 5 - Active Record Query Interface, Bagian Kedua
+### Hari 4 - Active Record Query Interface, Bagian Kedua
 
 1. Locking Records
 2. Joining Tables
@@ -240,7 +259,9 @@
 4. Scopes
 5. Explain
 
-## Minggu 6 - View dan Controller
+### Hari 5 - Review
+
+## Minggu 8 - View dan Controller
 
 ### Hari 1 - Action View, Layout, dan Rendering
 
@@ -267,7 +288,7 @@
 
 1. Review Materi Dasar-Dasar Ruby on Rails dengan Metode Live Coding Interview
 
-## Minggu 7 - Pengenalan Beberapa Ruby Gem Esensial
+## Minggu 9 - Pengenalan Beberapa Ruby Gem Esensial
 
 ### Hari 1 - Autorisasi dan Autentifikasi
 
@@ -290,7 +311,7 @@
 
 ### Hari 5 - 
 
-## Minggu 8 - Tugas Kelompok: Simpilified Gojek on Web with Rails
+## Minggu 10 - Tugas Kelompok: Simpilified Gojek on Web with Rails
 
 ### Hari 1
 
@@ -302,9 +323,9 @@
 
 ### Hari 5
 
-# Minggu 9-12: Dasar-Dasar Ruby on Rails, Bagian Kedua
+# Minggu 11-12: Dasar-Dasar Ruby on Rails, Bagian Kedua
 
-## Minggu 9 - Test Driven Development
+## Minggu 11 - Lebih Dalam Tentang Test Driven Development
 
 ### Hari 1 - Mengenal RSpec
 
@@ -331,7 +352,7 @@
 5. Testing API
 6. Testing Rake Task
 
-## Minggu 10 - Design Pattern with Rails
+## Minggu 12 - Design Pattern dengan Rails Rails
 
 ### Hari 1 - Service Objects and Interactor Objects
 
@@ -342,6 +363,9 @@
 ### Hari 4 - View Objects (Serializer/Presenter)
 
 ### Hari 5 - Decorator
+
+
+
 
 ## Minggu 11 - Pengenalan Beberapa Ruby Gem Esensial
 
@@ -357,18 +381,6 @@
 ### Hari 3 - Security
 
 1. Brakeman
-
-### Hari 4
-
-### Hari 5
-
-## Minggu 12 - Tugas Kelompok: Rails Project
-
-### Hari 1
-
-### Hari 2
-
-### Hari 3
 
 ### Hari 4
 
