@@ -27,21 +27,14 @@
    Assignment  
    Conditional Assignment dengan Operator `||=`
 
-2. Tipe Data dan Operasi Dasar
-
-   Tipe Data Numerik dan Operasinya  
-   Tipe Data String dan Operasinya  
-   Tipe Data Date & Time dan Operasinya  
-   Tipe Data Boolean dan Operasinya
-
-3. Operasi Kondisional
+2. Operasi Kondisional
    
    Operasi kondisional dengan `if`, `else`, dan `elsif`  
    Operasi kondisional dengan `unless`  
    Operasi kondisional dengan ternary operator  
    Operasi kondisional dengan `case` dan `when`
 
-4. Latihan Mandiri
+3. Latihan Mandiri
 
 ### Hari 2 
 
@@ -53,6 +46,13 @@
 4. Loop dan iterasi dengan `loop`
 5. Loop dan iterasi dengan `.times`, `.upto`, dan `.downto`
 6. Latihan Mandiri
+
+#### Sesi 2 - Tipe Data dan Operasi Dasar
+
+1. Tipe Data Numerik dan Operasinya  
+2. Tipe Data String dan Operasinya  
+3. Tipe Data Date & Time dan Operasinya  
+4. Tipe Data Boolean dan Operasinya
 
 ### Hari 3
 
@@ -109,29 +109,20 @@
 
 ### Hari 5
 
-#### Sesi 1
-
-1. Tes Tertulis
-
-#### Sesi 2
-
-1. Live Code Interview
-
-## Minggu 2 - Konsep Lanjutan
-
-### Hari 3 - Input dan Output File dengan Ruby, Bagian Pertama
+#### Sesi 1 - Input dan Output File dengan Ruby
 
 1. Membaca dan Menulis File dalam Format Text
 2. Navigasi File dan Direktori
-3. Latihan Mandiri
+3. Serializing Data dengan Ruby
+4. Membaca dan Menulis File dalam Format Excel
+5. Latihan Mandiri
 
-### Hari 4 - Input dan Output File dengan Ruby, Bagian Kedua
+#### Sesi 2
 
-1. Serializing Data dengan Ruby
-2. Membaca dan Menulis File dalam Format Excel
-3. Latihan Mandiri
+1. Tes Tertulis
+2. Live Code Interview
 
-### Hari 5 - Tugas Kelompok
+## Minggu 2 - Konsep Lanjutan
 
 ## Minggu 3 - Pemrograman Berorientasi Objek dengan Ruby
 
