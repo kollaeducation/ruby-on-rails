@@ -2,7 +2,9 @@
 
 ## Minggu 1 - Konsep Dasar
 
-### Hari 1 - Pengenalan Bahasa Pemrograman Ruby
+### Hari 1
+
+#### Sesi 1 - Pengenalan Bahasa Pemrograman Ruby
 
 1. Filosofi dan Sejarah Singkat Ruby
 2. Persiapan
@@ -18,7 +20,7 @@
 
 4. Hello World
 
-### Hari 2 - Assignment dan Condition
+#### Sesi 2 - Assignment dan Condition
 
 1. Assignment
 
@@ -41,7 +43,9 @@
 
 4. Latihan Mandiri
 
-### Hari 3 - Loop dan Iterasi
+### Hari 2 
+
+#### Sesi 1 - Loop dan Iterasi
 
 1. Loop dan iterasi dengan `while`
 2. Loop dan iterasi dengan `until`
@@ -50,7 +54,9 @@
 5. Loop dan iterasi dengan `.times`, `.upto`, dan `.downto`
 6. Latihan Mandiri
 
-### Hari 4 - Array
+### Hari 3
+
+#### Sesi 1 - Array
 
 1. Array Sederhana
 2. Melakukan Iterasi Terhadap Array
@@ -61,7 +67,7 @@
 4. Array Multidimensional
 5. Latihan Mandiri
 
-### Hari 5 - Hash
+#### Sesi 2 - Hash
 
 1. Hash Sederhana
 
@@ -76,9 +82,9 @@
 
    Membuat sebuah aplikasi histogram sederhana. Aplikasi menerima input berupa teks dan menghasilkan output berupa daftar semua kata dalam teks beserta jumlah kemunculan kata tersebut dalam teks.
 
-## Minggu 2 - Konsep Lanjutan
+### Hari 4
 
-### Hari 1 - Methods, Blocks dan Sorting
+#### Sesi 1 - Methods, Blocks dan Sorting
 
 1. Membuat Method
 2. Parameter, Argumen, dan Return
@@ -90,7 +96,7 @@
 
 5. Latihan Mandiri
 
-### Hari 2 - Blocks, Procs, dan Lambda
+#### Sesi 2 - Blocks, Procs, dan Lambda
 
 1. Lebih Lanjut Tentang Block 
    
@@ -100,6 +106,18 @@
 2. Mengenal Proc
 3. Mengenal Lambda
 4. Latihan Mandiri
+
+### Hari 5
+
+#### Sesi 1
+
+1. Tes Tertulis
+
+#### Sesi 2
+
+1. Live Code Interview
+
+## Minggu 2 - Konsep Lanjutan
 
 ### Hari 3 - Input dan Output File dengan Ruby, Bagian Pertama
 
