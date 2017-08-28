@@ -1,4 +1,4 @@
-# Minggu 1-4: Dasar-Dasar Bahasa Pemrograman Ruby
+# Minggu 1-2: Dasar-Dasar Bahasa Pemrograman Ruby
 
 ## Minggu 1 - Konsep Dasar
 
@@ -122,11 +122,11 @@
 1. Tes Tertulis
 2. Live Code Interview
 
-## Minggu 2 - Konsep Lanjutan
+## Minggu 2 - Pemrograman Berorientasi Objek dengan Ruby
 
-## Minggu 3 - Pemrograman Berorientasi Objek dengan Ruby
+### Hari 1 
 
-### Hari 1 - Class dan Object, Bagian Pertama
+#### Sesi 1 - Class dan Object, Bagian Pertama
 
 1. Mengenal Class dan Object
    
@@ -144,14 +144,16 @@
 3. Inheritance
 4. Latihan Mandiri
 
-### Hari 2 - Class dan Object, Bagian Kedua
+#### Sesi 2 - Class dan Object, Bagian Kedua 
 
 1. Method dan Class Method
 2. Public Method dan Private Method
 3. Mengenal `attr_reader`, `attr_writer`, dan `attr_accessor`
 4. Latihan Mandiri
 
-### Hari 3 - Module
+### Hari 2
+
+#### Sesi 1 - Module
 
 1. Mengenal Module
 
@@ -166,25 +168,31 @@
 
 3. Latihan Mandiri
 
-### Hari 4 - Google Maps Web Service APIs for Ruby
-
-### Hari 5 - Review
-
-1. Review Materi Dasar-Dasar Bahasa Pemrograman Ruby dengan Metode Live Coding Interview
- 
-## Minggu 4 - Tugas Kelompok: Simpilified Gojek on Console with Ruby
-
-### Hari 1
-
-### Hari 2
+#### Sesi 2 - Google Maps Web Service APIs for Ruby
 
 ### Hari 3
 
+#### Sesi 1 - Tugas Mandiri, Bagian Pertama
+
+#### Sesi 2 - Tugas Mandiri, Bagian Kedua
+
 ### Hari 4
 
-### Hari 5 - Review
+#### Sesi 1 - Tugas Mandiri, Bagian Ketiga
 
-1. Review Tugas Kelompok
+#### Sesi 2 - Tugas Mandiri, Bagian Keempat
+
+### Hari 5
+
+#### Sesi 1 - Demo Hasil Tugas Mandiri, Bagian Pertama
+
+#### Sesi 2 - Demo Hasil Tugas Mandiri, Bagian Kedua
+
+# Minggu 3-6: Dasar-Dasar Ruby on Rails
+
+## Minggu 3 - 
+ 
+## Minggu 4 - 
 
 # Minggu 5-8: Dasar-Dasar Ruby on Rails, Bagian Pertama
 
