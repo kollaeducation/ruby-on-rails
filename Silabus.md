@@ -42,6 +42,7 @@
 
 #### Sesi 1 - Loop dan Iterasi
 
+0. [Slide Presentasi](http://slides.com/qblfrb/loop-dan-iterasi?token=5beu1fkB)
 1. Loop dan iterasi dengan `while`
 2. Loop dan iterasi dengan `until`
 3. Loop dan iterasi dengan `for`
