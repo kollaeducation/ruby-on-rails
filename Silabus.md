@@ -1,142 +1,138 @@
-# Minggu 1-2: Dasar-Dasar Bahasa Pemrograman Ruby
+# Week 1-2: Beginning Ruby Programming Language
 
-## Minggu 1 - Konsep Dasar
+## Week 1 - Basic Concepts
 
-### Hari 1
+### Day 1
 
-#### Sesi 1 - Pengenalan Bahasa Pemrograman Ruby
+#### Session 1 - Introduction to Ruby Programming Language
 
-1. Filosofi dan Sejarah Singkat Ruby
-2. Persiapan
+1. Philosophy and Brief History of Ruby Programming Language
+2. Installations
 
-   Instalasi Ruby dengan RVM  
-   Instalasi Git
+   Installing Ruby with RVM  
+   Installing Git
 
-3. Git
+3. Introduction to Git
 
-   Pembuatan repositori Git  
+   How to make a Git repository  
    Branch Management  
    Branch Workflow
 
 4. Hello, Ruby!
 
-#### Sesi 2 - Variable, Assignment dan Condition
+#### Session 2 - Variables, Assignments and Conditions
 
-0. [Slide Presentasi](http://slides.com/qblfrb/assignment-dan-condition?token=aHRN46jI)
+0. [Presentation Slide](http://slides.com/qblfrb/assignment-and-condition?token=aHRN46jI)
 
-1. Assignment
+1. Assignments
 
-   Assignment  
-   Conditional Assignment dengan Operator `||=`
+   Assignments  
+   Conditional assignments with `||=` operator
 
-2. Operasi Kondisional
+2. Flow Control - Conditional Statements
    
-   Operasi kondisional dengan `if`, `else`, dan `elsif`  
-   Operasi kondisional dengan `unless`  
-   Operasi kondisional dengan ternary operator  
-   Operasi kondisional dengan `case` dan `when`
+   Conditional statements with `if`, `else`, and `elsif`  
+   Conditional statements with `unless`  
+   Conditional statements with ternary operator  
+   Conditional statements with `case` and `when`
 
-3. Latihan Mandiri
+3. Boolean Data Type and Its Operations
+4. Excercises
 
-### Hari 2 
+### Day 2 
 
-#### Sesi 1 - Loop dan Iterasi
+#### Session 1 - Flow Control - Loop and Iteration
 
-0. [Slide Presentasi](http://slides.com/qblfrb/loop-dan-iterasi?token=5beu1fkB)
-1. Loop dan iterasi dengan `while`
-2. Loop dan iterasi dengan `until`
-3. Loop dan iterasi dengan `for`
-4. Loop dan iterasi dengan `loop`
-5. Loop dan iterasi dengan `.times`, `.upto`, dan `.downto`
-6. Latihan Mandiri
+0. [Presentation Slide](http://slides.com/qblfrb/loop-and-iterasi?token=5beu1fkB)
+1. Loop and Iteration with `while`
+2. Loop and Iteration with `until`
+3. Loop and Iteration with `for`
+4. Loop and Iteration with `loop`
+5. Loop and Iteration with `.times`, `.upto`, and `.downto`
+6. Excercises
 
-#### Sesi 2 - Tipe Data dan Operasi Dasar
+#### Session 2 - Data Types and Their Operations
 
-1. Tipe Data Numerik dan Operasinya  
-2. Tipe Data String dan Operasinya  
-3. Tipe Data Date & Time dan Operasinya  
-4. Tipe Data Boolean dan Operasinya
+1. Numeric Data Type and Its Operations
+2. String Data Type and Its Operations
+3. Date & Time Data Type and Its Operations
+4. Excercises
 
-### Hari 3
+### Day 3
 
-#### Sesi 1 - Array
+#### Session 1 - Array
 
-1. Array Sederhana
-2. Melakukan Iterasi Terhadap Array
-3. Operasi-Operasi Lainnya
-   
-   Operasi dengan `.push`, `<<`, dan `+`
+1. Simple Array
+2. Iterating Through an Array
+3. Array Operations
+4. Multidimentional Array
+5. Excercises
 
-4. Array Multidimensional
-5. Latihan Mandiri
+#### Session 2 - Hash
 
-#### Sesi 2 - Hash
+1. Simple Hash
 
-1. Hash Sederhana
+   Hash with string  
+   Introduction to symbol
+   Hash with symbol
 
-   Hash dengan String  
-   Mengenal Symbol
-   Hash dengan Symbol
-
-2. Melakukan Iterasi Terhadap Hash
-3. Operasi-Operasi Lainnya
+2. Iterating Through a Hash
+3. Hash Operations
 4. Nested Hash
-5. Latihan Mandiri
+5. Excercises
 
-   Membuat sebuah aplikasi histogram sederhana. Aplikasi menerima input berupa teks dan menghasilkan output berupa daftar semua kata dalam teks beserta jumlah kemunculan kata tersebut dalam teks.
+### Day 4
 
-### Hari 4
+#### Session 1 - Methods, Blocks and Sorting
 
-#### Sesi 1 - Methods, Blocks dan Sorting
+1. Creating a Method
+2. Parameters, Arguments, and Return Values
+3. Creating a Block
+4. Sorting and Combined Comparison Operator
 
-1. Membuat Method
-2. Parameter, Argumen, dan Return
-3. Membuat Block
-4. Sorting dan Combined Comparison Operator
+   Sorting with `sort`  
+   Introduction to `<=>` Operator
 
-   Sorting dengan `sort`  
-   Mengenal Operator `<=>`
+5. Excercises
 
-5. Latihan Mandiri
-
-#### Sesi 2 - Blocks, Procs, dan Lambda
+#### Session 2 - Blocks, Procs, and Lambda
 
 1. Lebih Lanjut Tentang Block 
    
-   Membuat Block dengan `{}` dan `do ... end`  
-   Mengenal Operasi `collect` dan `yield`
+   Creating a block with `{}` and `do ... end`  
+   Introduction to `collect` and `yield` operation
 
-2. Mengenal Proc
-3. Mengenal Lambda
-4. Latihan Mandiri
+2. Introduction to Proc
+3. Introduction to Lambda
+4. Excercises
 
-### Hari 5
+### Day 5
 
-#### Sesi 1 - Input dan Output File dengan Ruby
+#### Session 1 - File I/O with Ruby
 
-1. Membaca dan Menulis File dalam Format Text
-2. Navigasi File dan Direktori
-3. Serializing Data dengan Ruby
-4. Membaca dan Menulis File dalam Format Excel
-5. Latihan Mandiri
+1. Reading and Writing File in Simple Format
+2. Files and Directories Navigation
+3. Data Serializing with Ruby
+4. Reading and Writing File in Excel Format
+5. Excercises
 
-#### Sesi 2
+#### Session 2
 
-1. Tes Tertulis
+1. Written Test
 2. Live Code Interview
 
-## Minggu 2 - Pemrograman Berorientasi Objek dengan Ruby
+## Week 2 - Object Oriented Programming with Ruby
 
-### Hari 1 
+### Day 1 
 
-#### Sesi 1 - Class dan Object, Bagian Pertama
+#### Session 1 - Class and Object, Part 1
 
-1. Mengenal Class dan Object
+1. Introduction to Class and Object
    
-   Apa itu Class dan Object?  
-   Method `initialize` dan `new`
+   What are Class and Object?  
+   Introduction to `initialize` and `new` method
 
-2. Constant dan Variable
+2. Constant and Variable
    
    Constant  
    Local Variable  
@@ -145,99 +141,99 @@
    Global Variable  
 
 3. Inheritance
-4. Latihan Mandiri
+4. Excercises
 
-#### Sesi 2 - Class dan Object, Bagian Kedua 
+#### Session 2 - Class and Object, Part 2
 
-1. Method dan Class Method
-2. Public Method dan Private Method
-3. Mengenal `attr_reader`, `attr_writer`, dan `attr_accessor`
-4. Latihan Mandiri
+1. Method and Class Method
+2. Public Method and Private Method
+3. Introduction to `attr_reader`, `attr_writer`, and `attr_accessor`
+4. Excercises
 
-### Hari 2
+### Day 2
 
-#### Sesi 1 - Module
+#### Session 1 - Module
 
-1. Mengenal Module
+1. Introduction to Module
 
-   Apa itu Module?  
-   Mengenal `require`, `include`, dan `extend`
+   What is a Module?  
+   Introduction to `require`, `include`, and `extend`
 
-2. Mengenal Modul-Modul Dasar di Ruby
+2. Introduction to Ruby's Basic Modules
    
    Math  
    Date  
    Time
 
-3. Latihan Mandiri
+3. Excercises
 
-#### Sesi 2 - Google Maps Web Service APIs for Ruby
+#### Session 2 - Google Maps Web Service APIs for Ruby
 
-### Hari 3
+### Day 3
 
-#### Sesi 1 - Tugas Mandiri, Bagian Pertama
+#### Session 1 - Ruby Project, Part 1
 
-#### Sesi 2 - Tugas Mandiri, Bagian Kedua
+#### Session 2 - Ruby Project, Part 2
 
-### Hari 4
+### Day 4
 
-#### Sesi 1 - Tugas Mandiri, Bagian Ketiga
+#### Session 1 - Ruby Project, Part 3
 
-#### Sesi 2 - Tugas Mandiri, Bagian Keempat
+#### Session 2 - Ruby Project, Part 4
 
-### Hari 5
+### Day 5
 
-#### Sesi 1 - Demo Hasil Tugas Mandiri, Bagian Pertama
+#### Session 1 - Ruby Project Demo, Part 1
 
-#### Sesi 2 - Demo Hasil Tugas Mandiri, Bagian Kedua
+#### Session 2 - Ruby Project Demo, Part 1
 
-# Minggu 3-6: Dasar-Dasar Ruby on Rails
+# Week 3-6: Beginning Ruby on Rails
 
-## Minggu 3 - Pengenalan Ruby on Rails dan Konsep MVC Framework
+## Week 3 - Introduction to Ruby on Rails MVC Framework
 
-### Hari 1
+### Day 1
 
-#### Sesi 1 - Introduksi
+#### Session 1 - Introduksi
 
-1. Filosofi dan Sejarah Singkat Ruby on Rails
+1. Filosofi and Sejarah Singkat Ruby on Rails
 2. Persiapan
 3. Penjelasan Mengenai Tugas Besar
 
-#### Sesi 2 - Aplikasi Rails Pertamamu
+#### Session 2 - Aplikasi Rails Pertamamu
 
 1. Hello, Rails!
 2. Arsitektur Aplikasi Rails
 
-### Hari 2
+### Day 2
 
-### Hari 3
+### Day 3
 
-### Hari 4
+### Day 4
 
-### Hari 5
+### Day 5
  
-## Minggu 4 - 
+## Week 4 - 
 
-## Minggu 5 - 
+## Week 5 - 
 
-## Minggu 6 - 
+## Week 6 - 
 
-# Minggu 7-10: Lebih Dalam Tentang Ruby on Rails
+# Week 7-10: Lebih Dalam Tentang Ruby on Rails
 
-## Minggu 7 - 
+## Week 7 - 
 
-### Hari 1 - Active Record, Migrasi, Validasi, dan Callback
+### Day 1 - Active Record, Migrasi, Validasi, and Callback
 
 1. Memahami Active Record
 2. Migrasi
 
-   Membuat table dan index  
-   Memanipulasi table dengan `add_column`, `rename_column`, `change_column` dan `remove_column`
+   Membuat table and index  
+   Memanipulasi table dengan `add_column`, `rename_column`, `change_column` and `remove_column`
 
 3. Validasi
 4. Callback
 
-### Hari 2 - Asosiasi
+### Day 2 - Asosiasi
 
 1. Asosiasi One-to-One dengan `has_one`
 2. Asosiasi One-to-Many dengan `has_many`
@@ -246,15 +242,15 @@
 5. Asosiasi Polymorphic
 6. Self Joins
 
-### Hari 3 - Active Record Query Interface, Bagian Pertama
+### Day 3 - Active Record Query Interface, Bagian Pertama
 
 1. Membaca dari Database
 2. Kondisi
-3. Pengurutan, Limit, dan Offset
+3. Pengurutan, Limit, and Offset
 4. Grup
 5. Kalkulasi
 
-### Hari 4 - Active Record Query Interface, Bagian Kedua
+### Day 4 - Active Record Query Interface, Bagian Kedua
 
 1. Locking Records
 2. Joining Tables
@@ -262,91 +258,91 @@
 4. Scopes
 5. Explain
 
-### Hari 5 - Review
+### Day 5 - Review
 
-## Minggu 8 - View dan Controller
+## Week 8 - View and Controller
 
-### Hari 1 - Action View, Layout, dan Rendering
+### Day 1 - Action View, Layout, and Rendering
 
-1. Layout dan Rendering di Rails
+1. Layout and Rendering di Rails
 2. Form Helpers
 
-### Hari 2 - Action Controller dan Route
+### Day 2 - Action Controller and Route
 
 1. Memahami Controller
 2. Memahami Routing
 
-### Hari 3 - Action Mailer dan Active Job
+### Day 3 - Action Mailer and Active Job
 
 1. Action Mailer
 2. Active Job
 
-### Hari 4 - API-Only Rails Applications
+### Day 4 - API-Only Rails Applications
 
 1. Designing RESTful Services Architecture
 2. Implement Low Latency RESTful Services
 3. API Security (Internet-Facing, Token, etc)
 
-### Hari 5 - Review
+### Day 5 - Review
 
 1. Review Materi Dasar-Dasar Ruby on Rails dengan Metode Live Coding Interview
 
-## Minggu 9 - Pengenalan Beberapa Ruby Gem Esensial
+## Week 9 - Pengenalan Beberapa Ruby Gem Esensial
 
-### Hari 1 - Autorisasi dan Autentifikasi
+### Day 1 - Autorisasi and Autentifikasi
 
 1. Devise
 2. Pundit
 
-### Hari 2 - Search, Filter, dan Paginasi
+### Day 2 - Search, Filter, and Paginasi
 
 1. Ransack
 2. Kaminari
 
-### Hari 3 - Mengelola Gambar dan Media Lainnya
+### Day 3 - Mengelola Gambar and Media Lainnya
 
 1. Paperclip
 
-### Hari 4 - Frontend dan Antarmuka
+### Day 4 - Frontend and Antarmuka
 
 1. Twitter Bootstrap
 2. Formtastic
 
-### Hari 5 - 
+### Day 5 - 
 
-## Minggu 10 - Tugas Kelompok: Simpilified Gojek on Web with Rails
+## Week 10 - Tugas Kelompok: Simpilified Gojek on Web with Rails
 
-### Hari 1
+### Day 1
 
-### Hari 2
+### Day 2
 
-### Hari 3
+### Day 3
 
-### Hari 4
+### Day 4
 
-### Hari 5
+### Day 5
 
-# Minggu 11-12: Dasar-Dasar Ruby on Rails, Bagian Kedua
+# Week 11-12: Dasar-Dasar Ruby on Rails, Bagian Kedua
 
-## Minggu 11 - Lebih Dalam Tentang Test Driven Development
+## Week 11 - Lebih Dalam Tentang Test Driven Development
 
-### Hari 1 - Mengenal RSpec
+### Day 1 - Mengenal RSpec
 
 1. Setting Up RSpec
 2. Model Specs
 3. Generating Test Data with Factories
 
-### Hari 2 - Controller Specs
+### Day 2 - Controller Specs
 
 1. Basic Controller Specs
 2. Advanced Controller Specs
 3. Controller Spec Cleanup
 
-### Hari 3 - Feature Spec
+### Day 3 - Feature Spec
 
-### Hari 4 - Speeding Up Specs
+### Day 4 - Speeding Up Specs
 
-### Hari 5 - Testing The Rest
+### Day 5 - Testing The Rest
 
 1. Testing Email Delivery
 2. Testing File Upload
@@ -355,36 +351,36 @@
 5. Testing API
 6. Testing Rake Task
 
-## Minggu 12 - Design Pattern dengan Rails Rails
+## Week 12 - Design Pattern dengan Rails Rails
 
-### Hari 1 - Service Objects and Interactor Objects
+### Day 1 - Service Objects and Interactor Objects
 
-### Hari 2 - Value Objects and Form Objects
+### Day 2 - Value Objects and Form Objects
 
-### Hari 3 - Query Objects and Policy Objects
+### Day 3 - Query Objects and Policy Objects
 
-### Hari 4 - View Objects (Serializer/Presenter)
+### Day 4 - View Objects (Serializer/Presenter)
 
-### Hari 5 - Decorator
-
-
+### Day 5 - Decorator
 
 
-## Minggu 11 - Pengenalan Beberapa Ruby Gem Esensial
 
-### Hari 1 - Code Integration
+
+## Week 11 - Pengenalan Beberapa Ruby Gem Esensial
+
+### Day 1 - Code Integration
 
 1. Jenkins
 2. Docker
 
-### Hari 2 - Code Analyzer
+### Day 2 - Code Analyzer
 
 1. RuboCop
 
-### Hari 3 - Security
+### Day 3 - Security
 
 1. Brakeman
 
-### Hari 4
+### Day 4
 
-### Hari 5
+### Day 5
