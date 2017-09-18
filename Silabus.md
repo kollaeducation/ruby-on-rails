@@ -76,7 +76,7 @@
 1. Simple Hash
 
    Hash with string  
-   Introduction to symbol
+   Introduction to symbol  
    Hash with symbol
 
 2. Iterating Through a Hash
