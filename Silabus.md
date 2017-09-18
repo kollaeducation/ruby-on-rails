@@ -46,7 +46,7 @@
 #### Session 2 - Ruby Basic Data Types and Their Operations
 
 1. Introduction to Ruby Basic Data Types
-   Boolean, Nummeric, String, NilClass, Hash, Symbol, Array, Range
+   Boolean, Nummeric, String, NilClass, Hash, Symbol, Array, Range  
 2. Numeric Data Type and Its Operations
 3. String Data Type and Its Operations
 4. Excercises
