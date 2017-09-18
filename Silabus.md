@@ -372,11 +372,11 @@
 
 #### Session 1 - Active Record Query Interface, Part 1
 
-1. Membaca dari Database
-2. Kondisi
-3. Pengurutan, Limit, and Offset
-4. Grup
-5. Kalkulasi
+1. Reading from the Database
+2. Condition
+3. Order, Limit, and Offset
+4. Grouping
+5. Calculation
 
 #### Session 2 - Active Record Query Interface, Part 2
 
@@ -395,72 +395,61 @@
 
 #### Session 2 - Action Controller and Route
 
-1. Memahami Controller
-2. Memahami Routing
+1. In Depth with Controller
+2. Routing Inside Out
 
-### Day 4
-
-### Day 5
-
-## Week 8
-
-### Day 1
-
-### Day 2
-
-### Day 3 - Action Mailer and Active Job
+### Day 4 - Action Mailer and Active Job
 
 1. Action Mailer
 2. Active Job
 
-### Day 4 - API-Only Rails Applications
+### Day 5 - API-Only Rails Applications
 
 1. Designing RESTful Services Architecture
 2. Implement Low Latency RESTful Services
 3. API Security (Internet-Facing, Token, etc)
 
-### Day 5 - Review
+## Week 8 - Essential Ruby Gems
 
-1. Review Materi Dasar-Dasar Ruby on Rails dengan Metode Live Coding Interview
-
-## Week 9 - Pengenalan Beberapa Ruby Gem Esensial
-
-### Day 1 - Autorisasi and Autentifikasi
+### Day 1 - Authorization and Authentication
 
 1. Devise
 2. Pundit
 
-### Day 2 - Search, Filter, and Paginasi
+### Day 2 - Search, Filter, and Pagination
 
 1. Ransack
 2. Kaminari
 
-### Day 3 - Mengelola Gambar and Media Lainnya
+### Day 3 - Storing Files and Image
 
 1. Paperclip
 
-### Day 4 - Frontend and Antarmuka
+### Day 4 - Frontend and User Interface
 
 1. Twitter Bootstrap
 2. Formtastic
 
-### Day 5 - 
+### Day 5 - Code Analyzer and Security
 
-## Week 10
+1. RuboCop
+2. Brakeman
 
-### Day 1
+# Week 9-10: Design Pattern with Rails and Team Projects
 
-### Day 2
+## Week 9 - Design Pattern dengan Rails Rails
 
-### Day 3
+### Day 1 - Service Objects and Interactor Objects
 
-### Day 4
+### Day 2 - Value Objects and Form Objects
 
-### Day 5
+### Day 3 - Query Objects and Policy Objects
 
-# Week 9-10: Team Projects
+### Day 4 - View Objects (Serializer/Presenter)
 
-## Week 9 - Team Project 1: Building Simplified GoJek Web App
+### Day 5 - Decorator
+
+## Week 10 - Team Project 1: Building Simplified GoJek Web App
 
 ### Day 1
 
@@ -496,47 +485,11 @@
 
 #### Session 2 - Live Code Interview
 
-## Week 10 - Building a Dashboard
-
-### Day 1
-
-#### Session 1 - Set Up
-
-1. Discussion on Use Cases
-2. Discussion on Page Flow
-3. Discussion on Data Model
-
-#### Session 2 - Building a Dashboard, Iteration 1
-
-### Day 2
-
-#### Session 1 - Building a Dashboard, Iteration 2
-
-#### Session 2 - Building a Dashboard, Iteration 3
-
-### Day 3
-
-#### Session 1 - Building a Dashboard, Iteration 4
-
-#### Session 2 - Building a Dashboard, Iteration 5
-
-### Day 4
-
-#### Session 1 - Building a Dashboard, Iteration 6
-
-#### Session 2 - Building a Dashboard, Iteration 7
-
-### Day 5
-
-#### Session 1 - Project Demo
-
-#### Session 2 - Live Code Interview
-
-# Week 11-12: Beyond Rails: Soft Skills and Tools
+# Week 11-12: Soft Skills
 
 ## Week 11 - Lebih Dalam Tentang Test Driven Development
 
-### Day 1 - Mengenal RSpec
+### Day 1 - In Depth with RSpec
 
 1. Setting Up RSpec
 2. Model Specs
@@ -560,37 +513,3 @@
 4. Testing Web Service
 5. Testing API
 6. Testing Rake Task
-
-## Week 12 - Design Pattern dengan Rails Rails
-
-### Day 1 - Service Objects and Interactor Objects
-
-### Day 2 - Value Objects and Form Objects
-
-### Day 3 - Query Objects and Policy Objects
-
-### Day 4 - View Objects (Serializer/Presenter)
-
-### Day 5 - Decorator
-
-
-
-
-## Week 11 - Pengenalan Beberapa Ruby Gem Esensial
-
-### Day 1 - Code Integration
-
-1. Jenkins
-2. Docker
-
-### Day 2 - Code Analyzer
-
-1. RuboCop
-
-### Day 3 - Security
-
-1. Brakeman
-
-### Day 4
-
-### Day 5
