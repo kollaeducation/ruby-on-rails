@@ -51,11 +51,14 @@
 5. Loop and Iteration with `.times`, `.upto`, and `.downto`
 6. Excercises
 
-#### Session 2 - Data Types and Their Operations
+#### Session 2 - Ruby Basic Data Types and Their Operations
 
-1. Numeric Data Type and Its Operations
-2. String Data Type and Its Operations
-3. Date & Time Data Type and Its Operations
+1. Introduction to Ruby Basic Data Types
+
+   Boolean, Nummeric, String, NilClass, Hash, Symbol, Array, Range
+
+2. Numeric Data Type and Its Operations
+3. String Data Type and Its Operations
 4. Excercises
 
 ### Day 3
@@ -171,78 +174,203 @@
 
 ### Day 3
 
-#### Session 1 - Ruby Project, Part 1
+#### Session 1 - Ruby Final Project, Part 1
 
-#### Session 2 - Ruby Project, Part 2
+#### Session 2 - Ruby Final Project, Part 2
 
 ### Day 4
 
-#### Session 1 - Ruby Project, Part 3
+#### Session 1 - Ruby Final Project, Part 3
 
-#### Session 2 - Ruby Project, Part 4
+#### Session 2 - Ruby Final Project, Part 4
 
 ### Day 5
 
-#### Session 1 - Ruby Project Demo, Part 1
+#### Session 1 - Ruby Final Project Demo
 
-#### Session 2 - Ruby Project Demo, Part 1
+#### Session 2 - Ruby Final Project Code Evaluation
 
 # Week 3-6: Beginning Ruby on Rails
 
-## Week 3 - Introduction to Ruby on Rails MVC Framework
+## Week 3 - Building Simplified GoFood Web App, Part 1
 
 ### Day 1
 
-#### Session 1 - Introduksi
+#### Session 1 - Introduction
 
-1. Filosofi and Sejarah Singkat Ruby on Rails
-2. Persiapan
-3. Penjelasan Mengenai Tugas Besar
+1. Philosophy and Brief History of Ruby on Rails
+2. Installations
 
-#### Session 2 - Aplikasi Rails Pertamamu
+   Rails 5  
+   PostgreSQL
+
+#### Session 2 - Your First Rails App
 
 1. Hello, Rails!
-2. Arsitektur Aplikasi Rails
+2. Rails Application Architecture
+3. Rails Project Explanation and Discussion
+
+   Explanation and Discussion of Rails Project that will be developed throughout the whole Rails training
 
 ### Day 2
 
+#### Session 1 - The Simplified GoFood Web App, Concept
+
+1. Incremental Development
+2. Use Cases
+3. Page Flow
+4. Data Model
+
+#### Session 2 - The Simplified GoFood Web App, Iteration 1
+
+1. Set Up
+   Creating Database  
+   Scaffold  
+   Applying Migration
+2. Displaying List of Restaurants
+3. Styling List of Restaurants
+
 ### Day 3
+
+#### Session 1 - Validation and Unit Testing, Part 1
+
+#### Session 2 - Validation and Unit Testing, Part 2
 
 ### Day 4
 
+#### Session 1 - The Simplified GoFood Web App, Iteration 2
+
+1. Creating Catalog Listing
+2. Creating a Page Layout
+3. Using Helper to Format the Price
+4. Functional Testing of Controllers
+5. Caching of Partial Results
+
+#### Session 2 - The Simplified GoFood Web App, Iteration 3
+
+1. Finding a Cart
+2. Connectiong Menu to Cart
+3. Adding a Button
+
 ### Day 5
+
+#### Session 1 - The Simplified GoFood Web App, Iteration 4
+
+1. Creating a Smarter Cart
+2. Handling Errors
+3. Finishig the Cart
+
+#### Session 2 - The Simplified GoFood Web App, Iteration 5
+
+1. Moving the Cart
+2. Creating an Ajax-Based Cart
+3. Highlighting Changes
+4. Hiding an Empty Cart
+5. Broadcasting Updates with Action Cable
  
-## Week 4 - 
+## Week 4 - Building Simplified GoFood Web App, Part 2
 
-## Week 5 - 
+### Day 1
 
-## Week 6 - 
+#### Session 1 - Introduction
 
-# Week 7-10: Lebih Dalam Tentang Ruby on Rails
+1. Philosophy and Brief History of Ruby on Rails
+2. Installations
 
-## Week 7 - 
+   Rails 5  
+   PostgreSQL
 
-### Day 1 - Active Record, Migrasi, Validasi, and Callback
+#### Session 2 - Your First Rails App
 
-1. Memahami Active Record
-2. Migrasi
+1. Hello, Rails!
+2. Rails Application Architecture
+3. Rails Project Explanation and Discussion
 
-   Membuat table and index  
-   Memanipulasi table dengan `add_column`, `rename_column`, `change_column` and `remove_column`
+   Explanation and Discussion of Rails Project that will be developed throughout the whole Rails training
 
-3. Validasi
+### Day 2
+
+#### Session 1 - The Simplified GoFood Web App, Iteration 6
+
+1. Capturing an Order
+2. Atom Feeds
+
+#### Session 2 - The Simplified GoFood Web App, Iteration 7
+
+1. Sending Confirmation Emails
+2. Integration Testing of Applications
+
+### Day 3
+
+#### Session 1 - The Simplified GoFood Web App, Iteration 8
+
+1. Adding Users
+2. Authenticating Users
+3. Limiting Access
+4. Adding a Sidebar, More Administration
+
+#### Session 2 - The Simplified GoFood Web App, Iteration 9
+
+1. Selecting Locale
+2. Translating Homepage
+3. Translating Checkout
+4. Add a Locale Switcher
+
+### Day 4
+
+#### Session 1 - The Simplified GoFood Web App, Iteration 10
+
+1. Deploying with Phusion Passenger
+2. Deploying with MySQL
+3. Deploying Remotely with Capistrano
+4. Checking Up on a Deployed Application
+
+#### Session 2 - The Simplified GoFood Web App, Review
+
+1. Model
+2. View
+3. Controller
+4. Configuration
+5. Testing
+6. Deployment
+
+### Day 5
+
+#### Session 1 - Project Demo
+
+#### Session 2 - Live Code Interview
+
+# Week 7-8: Ruby on Rails In Depth
+
+## Week 7 - Active Record
+
+### Day 1
+
+#### Session 1 - Active Record, Migration, Validation, and Callback
+
+1. Introduction to Active Record
+2. Migration
+
+   Creating tables and indexes  
+   Manipulating tables with `add_column`, `rename_column`, `change_column` and `remove_column`
+
+3. Validation
 4. Callback
+5. Exercises
 
-### Day 2 - Asosiasi
+#### Session 2 - Associations
 
-1. Asosiasi One-to-One dengan `has_one`
-2. Asosiasi One-to-Many dengan `has_many`
-3. Asosiasi Many-to-Many dengan `has_and_belongs_to_many`
-4. Asosiasi Many-to-Many dengan `has_many :through`
-5. Asosiasi Polymorphic
+1. One-to-One Association with `has_one`
+2. One-to-Many Association with `has_many`
+3. Many-to-Many Association with `has_and_belongs_to_many`
+4. Many-to-Many Association with `has_many :through`
+5. Polymorphic Association
 6. Self Joins
+7. Exercises
 
-### Day 3 - Active Record Query Interface, Bagian Pertama
+### Day 2
+
+#### Session 1 - Active Record Query Interface, Part 1
 
 1. Membaca dari Database
 2. Kondisi
@@ -250,7 +378,7 @@
 4. Grup
 5. Kalkulasi
 
-### Day 4 - Active Record Query Interface, Bagian Kedua
+#### Session 2 - Active Record Query Interface, Part 2
 
 1. Locking Records
 2. Joining Tables
@@ -258,19 +386,27 @@
 4. Scopes
 5. Explain
 
-### Day 5 - Review
+### Day 3
 
-## Week 8 - View and Controller
-
-### Day 1 - Action View, Layout, and Rendering
+#### Session 1 - Action View, Layout, and Rendering
 
 1. Layout and Rendering di Rails
 2. Form Helpers
 
-### Day 2 - Action Controller and Route
+#### Session 2 - Action Controller and Route
 
 1. Memahami Controller
 2. Memahami Routing
+
+### Day 4
+
+### Day 5
+
+## Week 8
+
+### Day 1
+
+### Day 2
 
 ### Day 3 - Action Mailer and Active Job
 
@@ -310,7 +446,7 @@
 
 ### Day 5 - 
 
-## Week 10 - Tugas Kelompok: Simpilified Gojek on Web with Rails
+## Week 10
 
 ### Day 1
 
@@ -322,7 +458,81 @@
 
 ### Day 5
 
-# Week 11-12: Dasar-Dasar Ruby on Rails, Bagian Kedua
+# Week 9-10: Team Projects
+
+## Week 9 - Team Project 1: Building Simplified GoJek Web App
+
+### Day 1
+
+#### Session 1 - Set Up
+
+1. Discussion on Use Cases
+2. Discussion on Page Flow
+3. Discussion on Data Model
+
+#### Session 2 - Building Simplified GoJek Web App, Iteration 1
+
+### Day 2
+
+#### Session 1 - Building Simplified GoJek Web App, Iteration 2
+
+#### Session 2 - Building Simplified GoJek Web App, Iteration 3
+
+### Day 3
+
+#### Session 1 - Building Simplified GoJek Web App, Iteration 4
+
+#### Session 2 - Building Simplified GoJek Web App, Iteration 5
+
+### Day 4
+
+#### Session 1 - Building Simplified GoJek Web App, Iteration 6
+
+#### Session 2 - Building Simplified GoJek Web App, Iteration 7
+
+### Day 5
+
+#### Session 1 - Project Demo
+
+#### Session 2 - Live Code Interview
+
+## Week 10 - Building a Dashboard
+
+### Day 1
+
+#### Session 1 - Set Up
+
+1. Discussion on Use Cases
+2. Discussion on Page Flow
+3. Discussion on Data Model
+
+#### Session 2 - Building a Dashboard, Iteration 1
+
+### Day 2
+
+#### Session 1 - Building a Dashboard, Iteration 2
+
+#### Session 2 - Building a Dashboard, Iteration 3
+
+### Day 3
+
+#### Session 1 - Building a Dashboard, Iteration 4
+
+#### Session 2 - Building a Dashboard, Iteration 5
+
+### Day 4
+
+#### Session 1 - Building a Dashboard, Iteration 6
+
+#### Session 2 - Building a Dashboard, Iteration 7
+
+### Day 5
+
+#### Session 1 - Project Demo
+
+#### Session 2 - Live Code Interview
+
+# Week 11-12: Beyond Rails: Soft Skills and Tools
 
 ## Week 11 - Lebih Dalam Tentang Test Driven Development
 
