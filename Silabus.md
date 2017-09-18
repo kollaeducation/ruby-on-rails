@@ -8,12 +8,16 @@
 
 1. Philosophy and Brief History of Ruby Programming Language
 2. Installations
+
    Installing Ruby with RVM  
    Installing Git
+
 3. Introduction to Git
+
    How to make a Git repository  
    Branch Management  
    Branch Workflow
+
 4. Hello, Ruby!
 
 #### Session 2 - Variables, Assignments and Conditions
@@ -21,13 +25,17 @@
 0. [Presentation Slide](http://slides.com/qblfrb/assignment-and-condition?token=aHRN46jI)
 
 1. Assignments
+
    Assignments  
    Conditional assignments with `||=` operator
+
 2. Flow Control - Conditional Statements
+   
    Conditional statements with `if`, `else`, and `elsif`  
    Conditional statements with `unless`  
    Conditional statements with ternary operator  
    Conditional statements with `case` and `when`
+
 3. Boolean Data Type and Its Operations
 4. Excercises
 
@@ -46,7 +54,9 @@
 #### Session 2 - Ruby Basic Data Types and Their Operations
 
 1. Introduction to Ruby Basic Data Types
-   Boolean, Nummeric, String, NilClass, Hash, Symbol, Array, Range  
+
+   Boolean, Nummeric, String, NilClass, Hash, Symbol, Array, Range
+
 2. Numeric Data Type and Its Operations
 3. String Data Type and Its Operations
 4. Excercises
@@ -64,9 +74,11 @@
 #### Session 2 - Hash
 
 1. Simple Hash
+
    Hash with string  
    Introduction to symbol  
    Hash with symbol
+
 2. Iterating Through a Hash
 3. Hash Operations
 4. Nested Hash
@@ -80,15 +92,19 @@
 2. Parameters, Arguments, and Return Values
 3. Creating a Block
 4. Sorting and Combined Comparison Operator
+
    Sorting with `sort`  
    Introduction to `<=>` Operator
+
 5. Excercises
 
 #### Session 2 - Blocks, Procs, and Lambda
 
 1. Lebih Lanjut Tentang Block 
+   
    Creating a block with `{}` and `do ... end`  
    Introduction to `collect` and `yield` operation
+
 2. Introduction to Proc
 3. Introduction to Lambda
 4. Excercises
@@ -115,10 +131,12 @@
 #### Session 1 - Class and Object, Part 1
 
 1. Introduction to Class and Object
+   
    What are Class and Object?  
    Introduction to `initialize` and `new` method
 
 2. Constant and Variable
+   
    Constant  
    Local Variable  
    Instance Variable  
@@ -140,10 +158,12 @@
 #### Session 1 - Module
 
 1. Introduction to Module
+
    What is a Module?  
    Introduction to `require`, `include`, and `extend`
 
 2. Introduction to Ruby's Basic Modules
+   
    Math  
    Date  
    Time
@@ -180,6 +200,7 @@
 
 1. Philosophy and Brief History of Ruby on Rails
 2. Installations
+
    Rails 5  
    PostgreSQL
 
@@ -188,6 +209,7 @@
 1. Hello, Rails!
 2. Rails Application Architecture
 3. Rails Project Explanation and Discussion
+
    Explanation and Discussion of Rails Project that will be developed throughout the whole Rails training
 
 ### Day 2
@@ -202,9 +224,11 @@
 #### Session 2 - The Simplified GoFood Web App, Iteration 1
 
 1. Set Up
+
    Creating Database  
    Scaffold  
    Applying Migration
+
 2. Displaying List of Restaurants
 3. Styling List of Restaurants
 
