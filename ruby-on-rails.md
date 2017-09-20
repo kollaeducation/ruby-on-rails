@@ -1,46 +1,7 @@
-### Requirement:
+# Ruby on Rails
 
-1. Memiliki pengetahuan tentang Linux
-2. Memahami minimal satu bahasa pemrograman: Java, C#, Python, dll
-3. Mengerti konsep Object Oriented Programming
-4. Mengerti Design Pattern
-5. Fasih berbahasa Inggris
-
----
-
-### Soft skills outcomes:
-
-1. Analysis skills
-2. Communication skills
-3. Collaboration Skills
-4. Solution oriented
-
----
-
-### Point:  
-
-1. Agile Collaboration Workflows
-2. Best Practices
-3. Coding Standards
-4. DRY Principle
-5. Performance in mind
-6. Scalable design patterns
-7. Security in Mind
-8. Test-Driven and Behavior-Driven Development
-
----
-
-### Target Lulusan:
-
-1. Junior RoR Developer
-2. Intermediate RoR Developer
-3. Senior RoR Developer
-
----
-
-### Git Best Practices
-
-1. Environment Setup
+### Version Control GIT
+1. Command Line GIT
 2. Repository
 3. Tagging
 4. Branching and Merging
@@ -48,88 +9,63 @@
 6. Branching Workflows
 7. Rebasing
 
----
+### Programming is an art of solving problem
+1.  
 
-### Ruby Best Practices
+### Ruby Fundamental
+0. Variable
+1. Data Types
+2. Strings
+3. Objects
+4. Methods
+5. Arrays
+6. Hashes
+7. Loop
+8. Conditional
+9. Lamba
+10. Block
+11. Modular / Namespace
 
-1. Environment Setup
-2. Classes, Objects, and Modules
-3. Data Structure Linked Lists
-4. Arrays and Hashes
-5. Methods, Block and Sorting
-6. Hashes and Symbols
-7. Refactoring
-8. Blocks, Procs, Lambdas
-9. Files and Serializing Data
-10. Error Handling
+### Ruby Pattern
+1. Models
+   Use Models to encapsulate core business logic and avoid common ActiveRecord pitfalls.
+2. Scopes and Class Methods
+   Learn the intricacies of using class methods that run queries, and learn the benefits of using scopes.
+3. Active Model Serializers
 
----
+### API
+1. Introduction RESTful
+2. Resources and GET
+3. Deal with API Clients
+4. POST, PUT, PATCH, DELETE
+5. API Versioning
+6. API Authentication
 
-### Ruby on Rails Best Practices
+### Behavior Driven Development (BDD)
+1. Metrics, User Stories, Tracker
+2. Lo-Fi & Cost Estimation
 
-1. Environment setup
-2. Console & generator
-3. Model and Active Records
-4. Controller and View
-5. Forms
-6. Routes
-7. Assets Pipeline
-8. Custom libraries
-9. Rake Automation
-10. Scaffolding
-11. Cookies and Session
-12. Ruby Gem (Authentication, Uploader)
-13. Testing
-14. API
-15. Rails Production Mode
+### Test Driven Development (TDD)
+1. Software Testing with RSpec
+2. Refactor
 
----
+### Authentication and Security
+1.
 
-### Active Records Best Practices
 
-1. Connection Management
-2. Query interface
-3. Query optimization
-4. Database migrations
+AWS Amazon
+Digital Ocean
 
----
+Frontend:
+1. Angular
 
-### Testing Best Practices
+Database:
+1. PostgreSQL
+2. MongoDB
 
-1. Testing with RSPec
-2. Automated Testing
-3. Test Driven Development
+Backend:
+1. Go
 
----
-
-### API Best Practices
-
-1. Design RESTful services architectures
-2. Implement low latency RESTful services
-3. API security (internet-facing, token, etc)
-
----
-
-### Setup Production Environment
-
-1. Create apps instance
-2. Create DB instance
-3. Setup Load Balancer
-4. Setup domain
-5. Setup EV certificate (HTTPS)
-6. Heroku
-
----
-
-### Continuous Integration and Deployment Best Practices
-
-1. Jenkins and Docker
-2. Security vulnerabilities Brakeman
-3. Deploying to staging and production
-
----
-
-### Troubleshooting Best Practices
-
-1. Code debugging
-2. Server performance memory issues
+Fulltime:
+1. Jakarta
+2. Remote (2x seminggu)
