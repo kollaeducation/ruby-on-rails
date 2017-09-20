@@ -274,24 +274,6 @@
 
 ### Day 1
 
-#### Session 1 - Introduction
-
-1. Philosophy and Brief History of Ruby on Rails
-2. Installations
-
-   Rails 5  
-   PostgreSQL
-
-#### Session 2 - Your First Rails App
-
-1. Hello, Rails!
-2. Rails Application Architecture
-3. Rails Project Explanation and Discussion
-
-   Explanation and Discussion of Rails Project that will be developed throughout the whole Rails training
-
-### Day 2
-
 #### Session 1 - The Simplified GoFood Web App, Iteration 6
 
 1. Capturing an Order
@@ -302,7 +284,7 @@
 1. Sending Confirmation Emails
 2. Integration Testing of Applications
 
-### Day 3
+### Day 2
 
 #### Session 1 - The Simplified GoFood Web App, Iteration 8
 
@@ -318,23 +300,31 @@
 3. Translating Checkout
 4. Add a Locale Switcher
 
-### Day 4
+### Day 3
 
 #### Session 1 - The Simplified GoFood Web App, Iteration 10
 
 1. Deploying with Phusion Passenger
 2. Deploying with MySQL
-3. Deploying Remotely with Capistrano
-4. Checking Up on a Deployed Application
 
-#### Session 2 - The Simplified GoFood Web App, Review
+#### Session 2 - The Simplified GoFood Web App, Iteration 11
+
+1. Deploying Remotely with Capistrano
+2. Checking Up on a Deployed Application
+
+### Day 4
+
+#### Session 1 - The Simplified GoFood Web App Review, Part 1
 
 1. Model
 2. View
 3. Controller
-4. Configuration
-5. Testing
-6. Deployment
+
+#### Session 2 - The Simplified GoFood Web App Review, Part 2
+
+1. Configuration
+2. Testing
+3. Deployment
 
 ### Day 5
 
