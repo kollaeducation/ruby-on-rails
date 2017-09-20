@@ -334,11 +334,11 @@
 
 # Week 7-8: Ruby on Rails In Depth
 
-## Week 7 - Active Record
+## Week 7 - In Depth with Rails Concepts
 
 ### Day 1
 
-#### Session 1 - Active Record, Migration, Validation, and Callback
+#### Session 1 - Active Record and Associations
 
 1. Introduction to Active Record
 2. Migration
@@ -390,16 +390,41 @@
 1. In Depth with Controller
 2. Routing Inside Out
 
-### Day 4 - Action Mailer and Active Job
+### Day 4 
+
+#### Session 1 - Action Mailer, Active Job, and Rake
 
 1. Action Mailer
 2. Active Job
+3. Rake
 
-### Day 5 - API-Only Rails Applications
+#### Session 2 - API-Only Rails Applications
 
 1. Designing RESTful Services Architecture
 2. Implement Low Latency RESTful Services
 3. API Security (Internet-Facing, Token, etc)
+
+### Day 5
+
+#### Session 1 - In Depth with RSpec, Part 1
+
+1. Model Specs
+2. Generating Test Data with Factories
+3. Controller Specs
+3. Controller Spec Cleanup
+
+#### Session 2 - In Depth with RSpec, Part 2
+
+1. Feature Spec
+2. Speeding Up Specs
+3. Testing The Rest
+
+   Testing Email Delivery  
+   Testing File Upload  
+   Testing Time  
+   Testing Web Service  
+   Testing API  
+   Testing Rake Task
 
 ## Week 8 - Essential Ruby Gems
 
@@ -479,29 +504,6 @@
 
 # Week 11-12: Soft Skills
 
-## Week 11 - Lebih Dalam Tentang Test Driven Development
+## Week 11 - Soft Skills, Part 1
 
-### Day 1 - In Depth with RSpec
-
-1. Setting Up RSpec
-2. Model Specs
-3. Generating Test Data with Factories
-
-### Day 2 - Controller Specs
-
-1. Basic Controller Specs
-2. Advanced Controller Specs
-3. Controller Spec Cleanup
-
-### Day 3 - Feature Spec
-
-### Day 4 - Speeding Up Specs
-
-### Day 5 - Testing The Rest
-
-1. Testing Email Delivery
-2. Testing File Upload
-3. Testing Time
-4. Testing Web Service
-5. Testing API
-6. Testing Rake Task
+## Week 12 - Soft Skills, Part 2
