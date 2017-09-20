@@ -22,7 +22,7 @@
 
 #### Session 2 - Variables, Assignments and Conditions
 
-0. [Presentation Slide](http://slides.com/qblfrb/assignment-and-condition?token=aHRN46jI)
+0. [Presentation Slide](http://slides.com/qblfrb/assignment-dan-condition/fullscreen?token=aHRN46jI)
 
 1. Assignments
 
@@ -43,7 +43,7 @@
 
 #### Session 1 - Flow Control - Loop and Iteration
 
-0. [Presentation Slide](http://slides.com/qblfrb/loop-and-iterasi?token=5beu1fkB)
+0. [Presentation Slide](http://slides.com/qblfrb/loop-dan-iterasi/fullscreen?token=5beu1fkB)
 1. Loop and Iteration with `while`
 2. Loop and Iteration with `until`
 3. Loop and Iteration with `for`
