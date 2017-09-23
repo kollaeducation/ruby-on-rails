@@ -6,6 +6,7 @@
 
 #### Session 1 - Introduction to Ruby Programming Language
 
+0. [Presentation Slide](http://slides.com/qblfrb/introduction-to-ruby/fullscreen?token=DMZpOPwT)
 1. Philosophy and Brief History of Ruby Programming Language
 2. Installations
 
@@ -53,6 +54,7 @@
 
 #### Session 2 - Ruby Basic Data Types and Their Operations
 
+0. [Presentation Slide](http://slides.com/qblfrb/basic-data-typesin-ruby/fullscreen?token=Oxe9Cjku)
 1. Introduction to Ruby Basic Data Types
 
    Boolean, Nummeric, String, NilClass, Hash, Symbol, Array, Range
