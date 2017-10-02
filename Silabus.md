@@ -67,6 +67,7 @@
 
 #### Session 1 - Array
 
+0. [Presentation Slide](http://slides.com/qblfrb/array-in-ruby/fullscreen?token=M2mJ7L3Q)
 1. Simple Array
 2. Iterating Through an Array
 3. Array Operations
