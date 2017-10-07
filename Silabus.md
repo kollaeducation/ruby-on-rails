@@ -55,12 +55,12 @@
 #### Session 2 - Ruby Basic Data Types and Their Operations
 
 0. [Presentation Slide](http://slides.com/qblfrb/basic-data-typesin-ruby/fullscreen?token=Oxe9Cjku)
-1. Introduction to Ruby Basic Data Types
+1. Basic Data Types in Ruby
 
    Boolean, Nummeric, String, NilClass, Hash, Symbol, Array, Range
 
-2. Numeric Data Type and Its Operations
-3. String Data Type and Its Operations
+2. String Data Type and Its Operations
+3. Numeric Data Type and Its Operations
 4. Excercises
 
 ### Day 3
@@ -76,6 +76,7 @@
 
 #### Session 2 - Hash
 
+0. [Presentation Slide](http://slides.com/qblfrb/hash-in-ruby/fullscreen?token=Yim-NHRV)
 1. Simple Hash
 
    Hash with string  
