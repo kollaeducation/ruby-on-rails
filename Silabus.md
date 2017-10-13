@@ -497,13 +497,13 @@
 #### Session 2 - Asynchronous Communication with Messaging
 
 1. Available Messaging Protocols (Apache Kafka, RabbitMQ, NSQ, etc)
-2. Simple Messaging Implementation
+2. Exercise: Simple Messaging Implementation (with Ruby & Rails)
 
 ### Day 3 - Designing Microservices Application
 
 #### Session 1 - DDD
 
-#### Session 2 - Exercises
+#### Session 2 - Exercises (with Ruby & Rails)
 
 ### Day 4 - Decentralized Governance & Data Management
 
