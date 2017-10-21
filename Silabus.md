@@ -148,14 +148,16 @@
    Global Variable  
 
 3. Inheritance
-4. Excercises
+4. Self-testing code in Ruby
+5. Excercises
 
 #### Session 2 - Class and Object, Part 2
 
 1. Method and Class Method
 2. Public Method and Private Method
 3. Introduction to `attr_reader`, `attr_writer`, and `attr_accessor`
-4. Excercises
+4. Coding conventions in Ruby
+5. Excercises
 
 ### Day 2
 
@@ -205,8 +207,8 @@
 1. Philosophy and Brief History of Ruby on Rails
 2. Installations
 
-   Rails 5  
    PostgreSQL
+   Rails 5  
 
 #### Session 2 - Your First Rails App
 
@@ -273,7 +275,7 @@
 3. Highlighting Changes
 4. Hiding an Empty Cart
 5. Broadcasting Updates with Action Cable
- 
+
 ## Week 4 - Building Simplified GoFood Web App, Part 2
 
 ### Day 1
@@ -308,8 +310,9 @@
 
 #### Session 1 - The Simplified GoFood Web App, Iteration 10
 
-1. Deploying with Phusion Passenger
-2. Deploying with MySQL
+1. Setting up database for deployment
+2. Deploying with Puma as application server
+3. Using Nginx as Reverse Proxy
 
 #### Session 2 - The Simplified GoFood Web App, Iteration 11
 
@@ -336,7 +339,7 @@
 
 #### Session 2 - Live Code Interview
 
-# Week 7-8: Ruby on Rails In Depth
+# Week 7-8: Ruby on Rails In Depth & Other In Depth Topics
 
 ## Week 7 - In Depth with Rails Concepts
 
@@ -437,40 +440,96 @@
 1. Devise
 2. Pundit
 
-### Day 2 - Search, Filter, and Pagination
+### Day 2 - Pagination, Attachments and Security
 
-1. Ransack
-2. Kaminari
+#### Session 1 - Pagination and Attachments
 
-### Day 3 - Storing Files and Image
+1. Kaminari
+2. Paperclip
 
-1. Paperclip
+#### Session 2 - Security
 
-### Day 4 - Frontend and User Interface
+1. Brakeman
+
+### Day 3 - Frontend and User Interface
 
 1. Twitter Bootstrap
 2. Formtastic
 
-### Day 5 - Code Analyzer and Security
+### Day 4 - Introduction to Design Pattern
 
-1. RuboCop
-2. Brakeman
+#### Session 1 - Design Pattern Explained
 
-# Week 9-10: Design Pattern with Rails and Team Projects
+4W of Design Pattern (What, Why, When and Where)
 
-## Week 9 - Design Pattern dengan Rails Rails
+#### Session 2 - Kinds of Design Patterns
 
-### Day 1 - Service Objects and Interactor Objects
+1. Design Patterns in Rails
+2. Design Patterns to Refactor Fat ActiveRecord Models
 
-### Day 2 - Value Objects and Form Objects
+### Day 5 - Flexible Schedule
 
-### Day 3 - Query Objects and Policy Objects
+# Week 9-10: Microservice Architecture and Team Project
 
-### Day 4 - View Objects (Serializer/Presenter)
+## Week 9 - Microservice Architecture
 
-### Day 5 - Decorator
+### Day 1 - The Rise of Microservice Architecture
 
-## Week 10 - Team Project 1: Building Simplified GoJek Web App
+#### Session 1 - Microservice Architecture Explained
+
+1. 4W of Microservice Architecture (What, Why, When and Where)
+2. Simplified Take on Microservice vs Monolithic Architecture (In Depth Differences Will be Explained in Bits and Pieces on Later Session)
+
+#### Session 2 - Services
+
+1. 4W of Services
+2. How small is 'Micro' in Microservices?
+3. Exploring Public Services (API)
+
+### Day 2 - Inter-services Communication
+
+#### Session 1 - Synchronous Communication with Remote Procedure Invocation (RPI)
+
+1. The Move Towards Coarse-grained Communication
+2. Available RPI Protocols (SOAP, REST, gRPC, Apache Thrift)
+3. In Depth with REST
+
+#### Session 2 - Asynchronous Communication with Messaging
+
+1. Available Messaging Protocols (Apache Kafka, RabbitMQ, NSQ, etc)
+2. Exercise: Simple Messaging Implementation (with Ruby & Rails)
+
+### Day 3 - Designing Microservices Application
+
+#### Session 1 - DDD
+
+#### Session 2 - Exercises (with Ruby & Rails)
+
+### Day 4 - Decentralized Governance & Data Management
+
+#### Session 1 - Decentralized Governance
+
+1. Implications of Decentralized Governance
+2. The 'Tolerant Reader'
+3. Consumer-driven Contracts
+4. The Importance of Self-testing Code
+
+#### Session 2 - Decentralized Data Management
+
+1. Sharing Database is Forbidden
+2. Transactionless Design
+
+### Day 5 - Infrastructure Automation
+
+#### Session 1 - CI & CD Explained
+
+1. 4W of CI
+2. 4W of CD
+3. Tools of CI
+
+#### Session 2 - CI Exercises with TravisCI
+
+## Week 10 - Team Project: Building Simplified GoJek Web App
 
 ### Day 1
 
@@ -506,8 +565,8 @@
 
 #### Session 2 - Live Code Interview
 
-# Week 11-12: Soft Skills
+# Week 11-12: Team Project (cont'd)
 
-## Week 11 - Soft Skills, Part 1
+## Week 11 - Team Project: Building Simplified GoJek Web App
 
-## Week 12 - Soft Skills, Part 2
+## Week 12 - Team Project: Building Simplified GoJek Web App
