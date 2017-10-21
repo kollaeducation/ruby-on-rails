@@ -90,8 +90,9 @@
 
 ### Day 4
 
-#### Session 1 - Methods, Blocks and Sorting
+#### Session 1 - More on Methods
 
+0. [Presentation Slide](http://slides.com/qblfrb/methods-and-blocks/fullscreen?token=dlQ2VIE1)
 1. Creating a Method
 2. Parameters, Arguments, and Return Values
 3. Creating a Block
@@ -104,7 +105,8 @@
 
 #### Session 2 - Blocks, Procs, and Lambda
 
-1. Lebih Lanjut Tentang Block 
+0. [Presentation Slide](http://slides.com/qblfrb/block-proc-and-lambda/fullscreen?token=9hzPSkKg)
+1. More on Blocks
    
    Creating a block with `{}` and `do ... end`  
    Introduction to `collect` and `yield` operation
@@ -117,6 +119,7 @@
 
 #### Session 1 - File I/O with Ruby
 
+0. [Presentation Slide](http://slides.com/qblfrb/i-o-with-ruby/fullscreen?token=5WPGwkTX)
 1. Reading and Writing File in Simple Format
 2. Files and Directories Navigation
 3. Data Serializing with Ruby
@@ -134,6 +137,7 @@
 
 #### Session 1 - Class and Object, Part 1
 
+0. [Presentation Slide](http://slides.com/qblfrb/class/fullscreen?token=6_2Q1UyG)
 1. Introduction to Class and Object
    
    What are Class and Object?  
@@ -163,6 +167,7 @@
 
 #### Session 1 - Module
 
+0. [Presentation Slide](http://slides.com/qblfrb/module-in-ruby/fullscreen?token=vRs8zqXm)
 1. Introduction to Module
 
    What is a Module?  
@@ -212,6 +217,7 @@
 
 #### Session 2 - Your First Rails App
 
+0. [Presentation Slide](http://slides.com/qblfrb/introduction-to-ruby-on-rails/fullscreen?token=wRZ6eGH5)
 1. Hello, Rails!
 2. Rails Application Architecture
 3. Rails Project Explanation and Discussion
