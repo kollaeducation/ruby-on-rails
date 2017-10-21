@@ -201,7 +201,7 @@
 
 #### Session 2 - Ruby Final Project Code Evaluation
 
-# Week 3-6: Beginning Ruby on Rails
+# Week 3-4: Beginning Ruby on Rails
 
 ## Week 3 - Building Simplified GoFood Web App, Part 1
 
@@ -344,6 +344,84 @@
 #### Session 1 - Project Demo
 
 #### Session 2 - Live Code Interview
+
+# Week 5-6: Ruby in Depth
+
+## Week 5 - Advance Concepts
+
+### Day 1
+
+#### Session 1 - More on Blocks, Procs, and Lambda
+
+#### Session 2 - Advances Arrays
+
+### Day 2
+
+#### Session 1 - More on Classes
+
+#### Session 2 - Advances Modules
+
+### Day 3
+
+#### Session 1 - Exceptions
+
+#### Session 2 - Declaring Data
+
+### Day 4
+
+#### Session 1 - Collections
+
+#### Session 2 - Finding and Fixing Bugs
+
+### Day 5
+
+#### Session 1 - Ruby's Object Model
+
+#### Session 2
+
+1. Written Test
+2. Live Code Interview
+
+## Week 6 - Metaprogramming with Ruby
+
+### Day 1
+
+#### Session 1 
+
+1. Being Meta
+2. Dynamic Methods
+
+#### Session 2 - Code Inspection
+
+### Day 2
+
+#### Session 1 - Eval and Friends
+
+#### Session 2 - Lifecycle Hooks
+
+### Day 3
+
+#### Session 1
+
+1. Named Initializers
+2. Extending Object
+
+#### Session 2 - 
+
+### Day 4
+
+#### Session 1 - 
+
+#### Session 2 - 
+
+### Day 5
+
+#### Session 1 - 
+
+#### Session 2
+
+1. Written Test
+2. Live Code Interview
 
 # Week 7-8: Ruby on Rails In Depth & Other In Depth Topics
 
