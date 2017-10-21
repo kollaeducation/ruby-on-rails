@@ -57,7 +57,7 @@
 0. [Presentation Slide](http://slides.com/qblfrb/basic-data-typesin-ruby/fullscreen?token=Oxe9Cjku)
 1. Basic Data Types in Ruby
 
-   Boolean, Nummeric, String, NilClass, Hash, Symbol, Array, Range
+   Boolean, Numeric, String, Symbol, NilClass, Array, Range, Hash
 
 2. String Data Type and Its Operations
 3. Numeric Data Type and Its Operations
