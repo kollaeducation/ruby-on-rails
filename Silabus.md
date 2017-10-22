@@ -235,14 +235,15 @@
 
 #### Session 2 - The Simplified GoFood Web App, Iteration 1
 
+0. [Presentation Slide](http://slides.com/qblfrb/simplified-go-food-web-app-iteration-1/fullscreen?token=BwYAAxIx)
 1. Set Up
 
    Creating Database  
    Scaffold  
    Applying Migration
 
-2. Displaying List of Restaurants
-3. Styling List of Restaurants
+2. Displaying List of Foods
+3. Styling List of Foods
 
 ### Day 3
 
