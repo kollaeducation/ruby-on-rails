@@ -253,52 +253,135 @@
 
 ### Day 18
 
-#### Session 1 - The Simplified GoFood Web App, Iteration 8
+#### - Session 1: The Simplified GoFood Web App, Iteration 5 Part 1
 
+0. [Presentation Slide](http://slides.com/qblfrb/the-simplified-go-food-web-app-iteration-5/fullscreen)
 1. Adding Users
 2. Authenticating Users
 3. Limiting Access
-4. Adding a Sidebar, More Administration
 
-#### Session 2 - The Simplified GoFood Web App, Iteration 9
+#### - Session 2: The Simplified GoFood Web App, Iteration 5 Part 2
 
-1. Selecting Locale
-2. Translating Homepage
-3. Translating Checkout
-4. Add a Locale Switcher
+1. Creating Users Controller
+2. Creating Views for Users Controller
 
-### Day 3
+### Day 19
 
-#### Session 1 - The Simplified GoFood Web App, Iteration 10
+#### - Session 1: The Simplified GoFood Web App, Iteration 6 Part 1
 
-1. Setting up database for deployment
-2. Deploying with Puma as application server
-3. Using Nginx as Reverse Proxy
+0. [Presentation Slide](http://slides.com/qblfrb/the-simplified-go-food-web-app-iteration-6/fullscreen)
+1. Sending Email
 
-#### Session 2 - The Simplified GoFood Web App, Iteration 11
+#### - Session 2: The Simplified GoFood Web App, Iteration 6 Part 2
 
-1. Deploying Remotely with Capistrano
-2. Checking Up on a Deployed Application
+1. Deployment with Puma
+2. Deployment with Nginx
 
-### Day 4
+### Day 20
 
-#### Session 1 - The Simplified GoFood Web App Review, Part 1
+#### - Session 1: Project Review and Demo
 
-1. Model
-2. View
-3. Controller
+#### - Session 2: Live Code Interview
 
-#### Session 2 - The Simplified GoFood Web App Review, Part 2
+# Rails In Depth
 
-1. Configuration
-2. Testing
-3. Deployment
+## Week 5 - In Depth with Rails Concepts
 
-### Day 5
+### Day 21
 
-#### Session 1 - Project Demo
+#### - Session 1: In Depth with Active Record, Part 1
 
-#### Session 2 - Live Code Interview
+0. [Presentation Slide](http://slides.com/qblfrb/in-depth-rails-active-record/fullscreen)
+1. Active Record
+2. Migration
+
+#### - Session 1: In Depth with Active Record, Part 2
+
+1. Validation
+2. Callback
+3. Exercises
+
+### Day 22
+
+#### - Session 1: Active Record Associations, Part 1
+
+0. [Presentation Slide](http://slides.com/qblfrb/rails-in-depth-active-record-associations/fullscreen)
+1. One-to-One Association with `has_one`
+2. One-to-Many Association with `has_many`
+
+#### - Session 1: Active Record Associations, Part 1 (continued)
+
+1.  Many-to-Many Association with `has_and_belongs_to_many`
+2. Many-to-Many Association with `has_many :through`
+
+### Day 23
+
+#### - Session 1: Active Record Associations, Part 2
+
+0. [Presentation Slide](http://slides.com/qblfrb/rails-in-depth-active-record-associations/fullscreen)
+1. Polymorphic Association
+3. Self Joins
+
+#### - Session 1: Active Record Associations, Part 2 (continued)
+
+1. Exercises
+
+### Day 24
+
+#### - Session 1: Active Record Query Interface, Part 1
+
+0. [Presentation Slide](http://slides.com/qblfrb/rails-in-depth-active-record-query-interface/fullscreen)
+1. Reading from the Database
+2. Condition
+3. Order, Limit, and Offset
+4. Grouping
+5. Calculation
+
+#### Session 2 - Active Record Query Interface, Part 1 (continued)
+
+1. Joining Tables
+2. Eager Loading Associations
+3. Scopes
+
+### Day 25
+
+#### - Session 1: In Depth with Rails, Exercises Part 1
+
+#### - Session 2: In Depth with Rails, Exercises Part 2 
+
+## Week 6 - Pairing Project
+
+### Day 26
+
+#### - Session 1: Pairing Project, Part 1
+
+0. [Presentation Slide](http://slides.com/qblfrb/rails-pairing-project-1/fullscreen)
+
+#### - Session 2: Pairing Project, Part 2
+
+### Day 27
+
+#### - Session 1: Pairing Project, Part 3
+
+#### - Session 2: Pairing Project, Part 4
+
+### Day 28
+
+#### - Session 1: Pairing Project, Part 5
+
+#### - Session 2: Live Demo
+
+### Day 29
+
+#### - Session 1: Introduction to Go Lang, Part 1
+
+#### - Session 2: Introduction to Go Lang, Part 2
+
+### Day 30
+
+#### - Session 1: Introduction to Go Lang, Part 3
+
+#### - Session 2: Introduction to Go Lang, Part 4
 
 # Ruby in Depth
 
@@ -377,100 +460,6 @@
 
 1. Written Test
 2. Live Code Interview
-
-# Ruby on Rails In Depth
-
-## Week 7 - In Depth with Rails Concepts
-
-### Day 1
-
-#### Session 1 - Active Record and Associations
-
-1. Introduction to Active Record
-2. Migration
-
-   Creating tables and indexes  
-   Manipulating tables with `add_column`, `rename_column`, `change_column` and `remove_column`
-
-3. Validation
-4. Callback
-5. Exercises
-
-#### Session 2 - Associations
-
-1. One-to-One Association with `has_one`
-2. One-to-Many Association with `has_many`
-3. Many-to-Many Association with `has_and_belongs_to_many`
-4. Many-to-Many Association with `has_many :through`
-5. Polymorphic Association
-6. Self Joins
-7. Exercises
-
-### Day 2
-
-#### Session 1 - Active Record Query Interface, Part 1
-
-1. Reading from the Database
-2. Condition
-3. Order, Limit, and Offset
-4. Grouping
-5. Calculation
-
-#### Session 2 - Active Record Query Interface, Part 2
-
-1. Locking Records
-2. Joining Tables
-3. Eager Loading Associations
-4. Scopes
-5. Explain
-
-### Day 3
-
-#### Session 1 - Action View, Layout, and Rendering
-
-1. Layout and Rendering di Rails
-2. Form Helpers
-
-#### Session 2 - Action Controller and Route
-
-1. In Depth with Controller
-2. Routing Inside Out
-
-### Day 4 
-
-#### Session 1 - Action Mailer, Active Job, and Rake
-
-1. Action Mailer
-2. Active Job
-3. Rake
-
-#### Session 2 - API-Only Rails Applications
-
-1. Designing RESTful Services Architecture
-2. Implement Low Latency RESTful Services
-3. API Security (Internet-Facing, Token, etc)
-
-### Day 5
-
-#### Session 1 - In Depth with RSpec, Part 1
-
-1. Model Specs
-2. Generating Test Data with Factories
-3. Controller Specs
-3. Controller Spec Cleanup
-
-#### Session 2 - In Depth with RSpec, Part 2
-
-1. Feature Spec
-2. Speeding Up Specs
-3. Testing The Rest
-
-   Testing Email Delivery  
-   Testing File Upload  
-   Testing Time  
-   Testing Web Service  
-   Testing API  
-   Testing Rake Task
 
 ## Week 8 - Essential Ruby Gems
 
