@@ -1,161 +1,106 @@
-# Week 1-2: Beginning Ruby Programming Language
+# Beginning Ruby Programming Language
 
 ## Week 1 - Basic Concepts
 
 ### Day 1
 
-#### Session 1 - Introduction to Ruby Programming Language
+#### - Session 1: Introduction to Ruby Programming Language
 
-0. [Presentation Slide](http://slides.com/qblfrb/introduction-to-ruby/fullscreen?token=DMZpOPwT)
+0. [Presentation Slide](http://slides.com/qblfrb/introduction-to-ruby/fullscreen)
 1. Philosophy and Brief History of Ruby Programming Language
 2. Installations
-
-   Installing Ruby with RVM  
-   Installing Git
-
-3. Introduction to Git
-
-   How to make a Git repository  
-   Branch Management  
-   Branch Workflow
-
+3. Introduction to software versioning control with Git
 4. Hello, Ruby!
 
-#### Session 2 - Variables, Assignments and Conditions
+#### - Session 2 - Variables, Assignments and Conditions
 
-0. [Presentation Slide](http://slides.com/qblfrb/assignment-dan-condition/fullscreen?token=aHRN46jI)
-
+0. [Presentation Slide](http://slides.com/qblfrb/assignment-dan-condition/fullscreen)
 1. Assignments
-
-   Assignments  
-   Conditional assignments with `||=` operator
-
 2. Flow Control - Conditional Statements
-   
-   Conditional statements with `if`, `else`, and `elsif`  
-   Conditional statements with `unless`  
-   Conditional statements with ternary operator  
-   Conditional statements with `case` and `when`
-
 3. Boolean Data Type and Its Operations
 4. Excercises
+5. [Solutions](http://slides.com/qblfrb/assignment-dan-condition-13/fullscreen)
 
 ### Day 2 
 
-#### Session 1 - Flow Control - Loop and Iteration
+#### - Session 1: Flow Control, Loop, and Iteration
 
-0. [Presentation Slide](http://slides.com/qblfrb/loop-dan-iterasi/fullscreen?token=5beu1fkB)
-1. Loop and Iteration with `while`
-2. Loop and Iteration with `until`
-3. Loop and Iteration with `for`
-4. Loop and Iteration with `loop`
-5. Loop and Iteration with `.times`, `.upto`, and `.downto`
-6. Excercises
+0. [Presentation Slide](http://slides.com/qblfrb/loop-dan-iterasi/fullscreen)
+1. Loop and Iteration with Ruby
+2. Excercises
+3. [Solutions](http://slides.com/qblfrb/loop-dan-iterasi-14/fullscreen)
 
-#### Session 2 - Ruby Basic Data Types and Their Operations
+#### - Session 2: Basic Data Types in Ruby
 
-0. [Presentation Slide](http://slides.com/qblfrb/basic-data-typesin-ruby/fullscreen?token=Oxe9Cjku)
+0. [Presentation Slide](http://slides.com/qblfrb/basic-data-typesin-ruby/fullscreen)
 1. Basic Data Types in Ruby
-
-   Boolean, Numeric, String, Symbol, NilClass, Array, Range, Hash
-
 2. String Data Type and Its Operations
 3. Numeric Data Type and Its Operations
 4. Excercises
+5. [Solutions](http://slides.com/qblfrb/basic-data-typesin-ruby-15/fullscreen)
 
 ### Day 3
 
-#### Session 1 - Array
+#### - Session 1: Array
 
-0. [Presentation Slide](http://slides.com/qblfrb/array-in-ruby/fullscreen?token=M2mJ7L3Q)
-1. Simple Array
-2. Iterating Through an Array
+0. [Presentation Slide](http://slides.com/qblfrb/array-in-ruby/fullscreen)
+1. Array in Ruby
 3. Array Operations
-4. Multidimentional Array
 5. Excercises
 
-#### Session 2 - Hash
+#### - Session 2: Hash
 
-0. [Presentation Slide](http://slides.com/qblfrb/hash-in-ruby/fullscreen?token=Yim-NHRV)
-1. Simple Hash
-
-   Hash with string  
-   Introduction to symbol  
-   Hash with symbol
-
-2. Iterating Through a Hash
-3. Hash Operations
-4. Nested Hash
-5. Excercises
+0. [Presentation Slide](http://slides.com/qblfrb/hash-in-ruby/fullscreen)
+1. Hash in Ruby
+2. Hash Operations
+3. Excercises
+4. [Solutions](http://slides.com/qblfrb/hash-in-ruby-19/fullscreen)
 
 ### Day 4
 
-#### Session 1 - More on Methods
+#### - Session 1: More on Methods
 
-0. [Presentation Slide](http://slides.com/qblfrb/methods-and-blocks/fullscreen?token=dlQ2VIE1)
-1. Creating a Method
-2. Parameters, Arguments, and Return Values
-3. Creating a Block
-4. Sorting and Combined Comparison Operator
+0. [Presentation Slide](http://slides.com/qblfrb/methods-and-blocks/fullscreen)
+1. Methods in Ruby
+2. Arguments and Parameters
+3. Excercises
 
-   Sorting with `sort`  
-   Introduction to `<=>` Operator
+#### - Session 2: Blocks, Procs, and Lambda
 
-5. Excercises
-
-#### Session 2 - Blocks, Procs, and Lambda
-
-0. [Presentation Slide](http://slides.com/qblfrb/block-proc-and-lambda/fullscreen?token=9hzPSkKg)
-1. More on Blocks
-   
-   Creating a block with `{}` and `do ... end`  
-   Introduction to `collect` and `yield` operation
-
-2. Introduction to Proc
-3. Introduction to Lambda
+0. [Presentation Slide](http://slides.com/qblfrb/block-proc-and-lambda/fullscreen)
+1. Blocks in Ruby
+2. Procs in Ruby
+3. Lambda in Ruby
 4. Excercises
 
 ### Day 5
 
-#### Session 1 - File I/O with Ruby
+#### - Session 1: File I/O with Ruby
 
-0. [Presentation Slide](http://slides.com/qblfrb/i-o-with-ruby/fullscreen?token=5WPGwkTX)
-1. Reading and Writing File in Simple Format
-2. Files and Directories Navigation
-3. Data Serializing with Ruby
-4. Reading and Writing File in Excel Format
-5. Excercises
+0. [Presentation Slide](http://slides.com/qblfrb/i-o-with-ruby/fullscreen)
+1. Reading and Writing File in Ruby
+2. Excercises
+3. [Solutions](http://slides.com/qblfrb/i-o-with-ruby-22/fullscreen)
 
-#### Session 2
+#### - Session 2: Written Test and Live Code Interview
 
-1. Written Test
-2. Live Code Interview
+1. [Written Test](http://slides.com/qblfrb/ruby-test-week-1/fullscreen)
+2. [Solutions](http://slides.com/qblfrb/ruby-test-week-1-23/fullscreen)
+3. Live Code Interview
 
 ## Week 2 - Object Oriented Programming with Ruby
 
-### Day 1 
+### Day 6
 
-#### Session 1 - Class and Object, Part 1
+#### - Session 1: Class and Object, Part 1
 
-0. [Presentation Slide](http://slides.com/qblfrb/class/fullscreen?token=6_2Q1UyG)
-1. Introduction to Class and Object
-   
-   What are Class and Object?  
-   Introduction to `initialize` and `new` method
-
-2. Constant and Variable
-   
-   Constant  
-   Local Variable  
-   Instance Variable  
-   Class Variable  
-   Global Variable  
-
+0. [Presentation Slide](http://slides.com/qblfrb/class/fullscreen)
+1. Class and Object in Ruby
+2. Constant and Variable in Ruby
 3. Inheritance
-4. Self-testing code in Ruby
-5. Excercises
+4. Excercises
 
-#### Session 2 - Class and Object, Part 2
+#### - Session 2: Class and Object, Part 2
 
 1. Method and Class Method
 2. Public Method and Private Method
@@ -163,45 +108,39 @@
 4. Coding conventions in Ruby
 5. Excercises
 
-### Day 2
+### Day 7
 
-#### Session 1 - Module
+#### - Session 1: Module
 
-0. [Presentation Slide](http://slides.com/qblfrb/module-in-ruby/fullscreen?token=vRs8zqXm)
-1. Introduction to Module
-
-   What is a Module?  
-   Introduction to `require`, `include`, and `extend`
-
+0. [Presentation Slide](http://slides.com/qblfrb/module-in-ruby/fullscreen)
+1. Module in Ruby
 2. Introduction to Ruby's Basic Modules
-   
-   Math  
-   Date  
-   Time
-
 3. Excercises
 
-#### Session 2 - Google Maps Web Service APIs for Ruby
+#### Session 2 - Code Conventions and Self-Testing Code
 
-### Day 3
+1. [Code Conventions with Rubocop](https://slide.rabbit-shocker.org/authors/giosakti/201710-coding-conventions-ruby/201710-coding-conventions-ruby.pdf)
+2. [Self-Testing Code with RSpec](https://slide.rabbit-shocker.org/authors/giosakti/201710-self-testing-code-ruby/201710-self-testing-code-ruby.pdf)
 
-#### Session 1 - Ruby Final Project, Part 1
+### Day 8
 
-#### Session 2 - Ruby Final Project, Part 2
+#### - Session 1: Ruby Final Project: Gojek CLI, Part 1
 
-### Day 4
+#### - Session 2: Ruby Final Project: Gojek CLI, Part 2
 
-#### Session 1 - Ruby Final Project, Part 3
+### Day 9
 
-#### Session 2 - Ruby Final Project, Part 4
+#### - Session 1: Ruby Final Project: Gojek CLI, Part 3
 
-### Day 5
+#### - Session 2: Ruby Final Project: Gojek CLI, Part 4
 
-#### Session 1 - Ruby Final Project Demo
+### Day 10
 
-#### Session 2 - Ruby Final Project Code Evaluation
+#### - Session 1: Ruby Final Project: Gojek CLI, Demo
 
-# Week 3-4: Beginning Ruby on Rails
+#### - Session 2: Written Test and Live Code Interview
+
+# Beginning Ruby on Rails
 
 ## Week 3 - Building Simplified GoFood Web App, Part 1
 
