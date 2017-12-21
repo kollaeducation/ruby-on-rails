@@ -163,7 +163,7 @@
 
 ### Day 12
 
-#### - Session 1: The Simplified GoFood Web App, Concept
+#### - Session 1: The Architecture of Rails Application
 
 1. [Presentation Slide](http://slides.com/qblfrb/the-architecture-of-rails-application/fullscreen)
 2. The Architecture of Rails Application
@@ -172,62 +172,86 @@
 
 0. [Presentation Slide](http://slides.com/qblfrb/simplified-go-food-web-app-iteration-1/fullscreen)
 1. Set Up
-2. Displaying List of Foods
-3. Styling List of Foods
+2. Scaffolding a complete MVC
+3. Using Rails migration to create and modify database schema
+4. Seeding initial data to an app
+5. Updating application-wide layout
+6. Modifying controller-specific view by modifying its CSS and HTML files
 
 ### Day 13
 
-#### - Session 1: Validation and Unit Testing, Part 1
+#### - Session 1: Validation and Unit Testing
 
-#### - Session 2: Validation and Unit Testing, Part 2
+0. [Presentation Slide](http://slides.com/qblfrb/validationand-unit-testing/fullscreen)
+1. Validation and Unit Testing
 
-### Day 4
+#### - Session 2: Model Specs
 
-#### Session 1 - The Simplified GoFood Web App, Iteration 2
+0. [Presentation Slide](http://slides.com/qblfrb/model-specs/fullscreen)
+1. Model Specs
 
-1. Creating Catalog Listing
-2. Creating a Page Layout
-3. Using Helper to Format the Price
-4. Functional Testing of Controllers
-5. Caching of Partial Results
+### Day 14
 
-#### Session 2 - The Simplified GoFood Web App, Iteration 3
+#### - Session 1: Factories
 
-1. Finding a Cart
-2. Connectiong Menu to Cart
-3. Adding a Button
+0. [Presentation Slide](http://slides.com/qblfrb/factories/fullscreen)
+1. Factories
 
-### Day 5
+#### - Session 2: Basic Controller Specs
 
-#### Session 1 - The Simplified GoFood Web App, Iteration 4
+0. [Presentation Slide](http://slides.com/qblfrb/basic-controller-specs/fullscreen)
+1. Basic Controller Specs
 
-1. Creating a Smarter Cart
-2. Handling Errors
-3. Finishig the Cart
+### Day 15
 
-#### Session 2 - The Simplified GoFood Web App, Iteration 5
+#### Session 1: The Simplified GoFood Web App, Iteration 2 Part 1
 
+0. [Presentation Slide](http://slides.com/qblfrb/the-simplified-go-food-web-app-iteration-2/fullscreen)
+1. Generating a controller without scaffolding
+2. Modifying a controller's views
+3. Modifying application layout
+4. Creating a concern
+5. Generating a model without scaffolding
+6. Creating factory with association
+7. Following TDD to construct a controller and a model from scratch to finally pass all the required tests
+
+#### Session 2 - The Simplified GoFood Web App, Iteration 2 Part 2
+
+0. [Presentation Slide](http://slides.com/qblfrb/the-simplified-go-food-web-app-iteration-2-part-2/fullscreen)
+1. Cart
+2. Smarter Cart
+3. Exercises
+
+## Week 4 - Building Simplified GoFood Web App, Part 2
+
+### Day 16
+
+#### - Session 1: Reviewing Solutions to Iteration 2 Exercises
+
+1. [Solutions](http://slides.com/qblfrb/solutions-the-simplified-go-food-web-app-iteration-2/fullscreen)
+
+#### - Session 2: The Simplified GoFood Web App, Iteration 3
+
+0. [Presentation Slide](http://slides.com/qblfrb/the-simplified-go-food-web-app-iteration-3/fullscreen)
 1. Moving the Cart
 2. Creating an Ajax-Based Cart
 3. Highlighting Changes
 4. Hiding an Empty Cart
-5. Broadcasting Updates with Action Cable
 
-## Week 4 - Building Simplified GoFood Web App, Part 2
+### Day 17
 
-### Day 1
+#### - Session 1: The Simplified GoFood Web App, Iteration 4 Part 1
 
-#### Session 1 - The Simplified GoFood Web App, Iteration 6
+0. [Presentation Slide](http://slides.com/qblfrb/the-simplified-go-food-web-app-iteration-4/fullscreen)
+1. Action Cable
+2. Capturing an Order
 
-1. Capturing an Order
-2. Atom Feeds
+#### - Session 2: The Simplified GoFood Web App, Iteration 4 Part 2
 
-#### Session 2 - The Simplified GoFood Web App, Iteration 7
+1. Exercise
+2. [Solutions](http://slides.com/qblfrb/the-simplified-go-food-web-app-iteration-4-43/fullscreen)
 
-1. Sending Confirmation Emails
-2. Integration Testing of Applications
-
-### Day 2
+### Day 18
 
 #### Session 1 - The Simplified GoFood Web App, Iteration 8
 
@@ -276,7 +300,7 @@
 
 #### Session 2 - Live Code Interview
 
-# Week 5-6: Ruby in Depth
+# Ruby in Depth
 
 ## Week 5 - Advance Concepts
 
@@ -354,7 +378,7 @@
 1. Written Test
 2. Live Code Interview
 
-# Week 7-8: Ruby on Rails In Depth & Other In Depth Topics
+# Ruby on Rails In Depth
 
 ## Week 7 - In Depth with Rails Concepts
 
@@ -484,7 +508,7 @@
 
 ### Day 5 - Flexible Schedule
 
-# Week 9-10: Microservice Architecture and Team Project
+# Microservice Architecture
 
 ## Week 9 - Microservice Architecture
 
