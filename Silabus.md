@@ -385,216 +385,158 @@
 
 # Ruby in Depth
 
-## Week 5 - Advance Concepts
+## Week 7 - Advance Concepts
 
-### Day 1
+### Day 31
 
-#### Session 1 - More on Blocks, Procs, and Lambda
+#### - Session 1: Advanced Array in Ruby, Part 1
 
-#### Session 2 - Advances Arrays
+0. [Presentation Slide](http://slides.com/qblfrb/advanced-array-in-ruby/fullscreen)
 
-### Day 2
+#### - Session 2: Advanced Array in Ruby, Part 2
 
-#### Session 1 - More on Classes
+### Day 32
 
-#### Session 2 - Advances Modules
+#### - Session 1: Collections in Ruby, Part 1
 
-### Day 3
+0. [Presentation Slide](http://slides.com/qblfrb/collections-in-ruby/fullscreen)
 
-#### Session 1 - Exceptions
+#### - Session 2: Collections in Ruby, Part 2
 
-#### Session 2 - Declaring Data
+### Day 33
 
-### Day 4
+#### - Session 1: Metaprogramming in Ruby, Part 1
 
-#### Session 1 - Collections
+0. [Presentation Slide](http://slides.com/qblfrb/metaprogramming-in-ruby/fullscreen)
 
-#### Session 2 - Finding and Fixing Bugs
+#### - Session 2: Metaprogramming in Ruby, Part 2
 
-### Day 5
+### Day 34
 
-#### Session 1 - Ruby's Object Model
+#### - Session 1: Design Pattern in Ruby, Part 1
 
-#### Session 2
+#### - Session 2: Design Pattern in Ruby, Part 2
 
-1. Written Test
-2. Live Code Interview
+### Day 35
 
-## Week 6 - Metaprogramming with Ruby
+#### - Session 1: In Depth with Ruby, Review Test Part 1
 
-### Day 1
+0. [Presentation Slide](http://slides.com/qblfrb/ruby-in-depth-review-test/fullscreen)
 
-#### Session 1 
-
-1. Being Meta
-2. Dynamic Methods
-
-#### Session 2 - Code Inspection
-
-### Day 2
-
-#### Session 1 - Eval and Friends
-
-#### Session 2 - Lifecycle Hooks
-
-### Day 3
-
-#### Session 1
-
-1. Named Initializers
-2. Extending Object
-
-#### Session 2 - 
-
-### Day 4
-
-#### Session 1 - 
-
-#### Session 2 - 
-
-### Day 5
-
-#### Session 1 - 
-
-#### Session 2
-
-1. Written Test
-2. Live Code Interview
-
-## Week 8 - Essential Ruby Gems
-
-### Day 1 - Authorization and Authentication
-
-1. Devise
-2. Pundit
-
-### Day 2 - Pagination, Attachments and Security
-
-#### Session 1 - Pagination and Attachments
-
-1. Kaminari
-2. Paperclip
-
-#### Session 2 - Security
-
-1. Brakeman
-
-### Day 3 - Frontend and User Interface
-
-1. Twitter Bootstrap
-2. Formtastic
-
-### Day 4 - Introduction to Design Pattern
-
-#### Session 1 - Design Pattern Explained
-
-4W of Design Pattern (What, Why, When and Where)
-
-#### Session 2 - Kinds of Design Patterns
-
-1. Design Patterns in Rails
-2. Design Patterns to Refactor Fat ActiveRecord Models
-
-### Day 5 - Flexible Schedule
+#### - Session 1: In Depth with Ruby, Review Test Part 2
 
 # Microservice Architecture
 
-## Week 9 - Microservice Architecture
+## Week 8 - Microservice Architecture
 
-### Day 1 - The Rise of Microservice Architecture
+### Day 36 - The Rise of Microservice Architecture
 
-#### Session 1 - Microservice Architecture Explained
+#### - Session 1: Microservice Architecture Explained
 
 1. 4W of Microservice Architecture (What, Why, When and Where)
 2. Simplified Take on Microservice vs Monolithic Architecture (In Depth Differences Will be Explained in Bits and Pieces on Later Session)
 
-#### Session 2 - Services
+#### - Session 2: Services
 
 1. 4W of Services
 2. How small is 'Micro' in Microservices?
 3. Exploring Public Services (API)
 
-### Day 2 - Inter-services Communication
+### Day 37 - Inter-services Communication
 
-#### Session 1 - Synchronous Communication with Remote Procedure Invocation (RPI)
+#### - Session 1: Synchronous Communication with Remote Procedure Invocation (RPI)
 
 1. The Move Towards Coarse-grained Communication
 2. Available RPI Protocols (SOAP, REST, gRPC, Apache Thrift)
 3. In Depth with REST
 
-#### Session 2 - Asynchronous Communication with Messaging
+#### - Session 2: Asynchronous Communication with Messaging
 
 1. Available Messaging Protocols (Apache Kafka, RabbitMQ, NSQ, etc)
 2. Exercise: Simple Messaging Implementation (with Ruby & Rails)
 
-### Day 3 - Designing Microservices Application
+### Day 38 - Designing Microservices Application
 
-#### Session 1 - DDD
+#### - Session 1: DDD
 
-#### Session 2 - Exercises (with Ruby & Rails)
+#### - Session 2: Exercises (with Ruby & Rails)
 
-### Day 4 - Decentralized Governance & Data Management
+### Day 39 - Decentralized Governance & Data Management
 
-#### Session 1 - Decentralized Governance
+#### - Session 1: Decentralized Governance
 
 1. Implications of Decentralized Governance
 2. The 'Tolerant Reader'
 3. Consumer-driven Contracts
 4. The Importance of Self-testing Code
 
-#### Session 2 - Decentralized Data Management
+#### - Session 2: Decentralized Data Management
 
 1. Sharing Database is Forbidden
 2. Transactionless Design
 
-### Day 5 - Infrastructure Automation
+### Day 40 - Infrastructure Automation
 
-#### Session 1 - CI & CD Explained
+#### - Session 1: CI & CD Explained
 
 1. 4W of CI
 2. 4W of CD
 3. Tools of CI
 
-#### Session 2 - CI Exercises with TravisCI
+#### - Session 2: CI Exercises with TravisCI
 
-## Week 10 - Team Project: Building Simplified GoJek Web App
+# Team Project: Building Simplified GoJek Web App
 
-### Day 1
+## Week 10 - Team Project Part 1
 
-#### Session 1 - Set Up
+### Day 46
 
-1. Discussion on Use Cases
-2. Discussion on Page Flow
-3. Discussion on Data Model
-
+#### Session 1 - Building Simplified GoJek Web App, Iteration 1
 #### Session 2 - Building Simplified GoJek Web App, Iteration 1
 
-### Day 2
+### Day 47
+
+#### Session 1 - Building Simplified GoJek Web App, Iteration 1
+#### Session 2 - Building Simplified GoJek Web App, Iteration 1
+
+### Day 48
+
+#### Session 1 - Building Simplified GoJek Web App, Iteration 1
+#### Session 2 - Building Simplified GoJek Web App, Iteration 1
+
+### Day 49
+
+#### Session 1 - Building Simplified GoJek Web App, Iteration 1
+#### Session 2 - Building Simplified GoJek Web App, Iteration 1
+
+### Day 50
+
+#### Session 1 - Building Simplified GoJek Web App, Iteration 1
+#### Session 2 - Building Simplified GoJek Web App, Iteration 1
+
+# Week 11: Team Project Part 2
+
+### Day 51
 
 #### Session 1 - Building Simplified GoJek Web App, Iteration 2
+#### Session 2 - Building Simplified GoJek Web App, Iteration 2
 
-#### Session 2 - Building Simplified GoJek Web App, Iteration 3
+### Day 52
 
-### Day 3
+#### Session 1 - Building Simplified GoJek Web App, Iteration 2
+#### Session 2 - Building Simplified GoJek Web App, Iteration 2
 
-#### Session 1 - Building Simplified GoJek Web App, Iteration 4
+### Day 53
 
-#### Session 2 - Building Simplified GoJek Web App, Iteration 5
+#### Session 1 - Building Simplified GoJek Web App, Iteration 2
+#### Session 2 - Building Simplified GoJek Web App, Iteration 2
 
-### Day 4
+### Day 54
 
-#### Session 1 - Building Simplified GoJek Web App, Iteration 6
+#### Session 1 - Building Simplified GoJek Web App, Iteration 2
+#### Session 2 - Building Simplified GoJek Web App, Iteration 2
 
-#### Session 2 - Building Simplified GoJek Web App, Iteration 7
+### Day 55
 
-### Day 5
-
-#### Session 1 - Project Demo
-
-#### Session 2 - Live Code Interview
-
-# Week 11-12: Team Project (cont'd)
-
-## Week 11 - Team Project: Building Simplified GoJek Web App
-
-## Week 12 - Team Project: Building Simplified GoJek Web App
+#### Session 1 - Project Demo & Interview, Part 1
+#### Session 2 - Project Demo & Interview, Part 2
