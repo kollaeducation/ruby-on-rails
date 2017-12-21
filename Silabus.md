@@ -415,23 +415,23 @@
 
 ### Day 34
 
+#### - Session 1: In Depth with Ruby, Review Test Part 1
+
+0. [Presentation Slide](http://slides.com/qblfrb/ruby-in-depth-review-test/fullscreen)
+
+#### - Session 2: In Depth with Ruby, Review Test Part 2
+
+### Day 35
+
 #### - Session 1: Design Pattern in Ruby, Part 1
 
 0. [Patterns in Software Engineering](https://github.com/giosakti/slide-201711-patterns-software-engineering)
 
 #### - Session 2: Design Pattern in Ruby, Part 2
 
-### Day 35
-
-#### - Session 1: In Depth with Ruby, Review Test Part 1
-
-0. [Presentation Slide](http://slides.com/qblfrb/ruby-in-depth-review-test/fullscreen)
-
-#### - Session 1: In Depth with Ruby, Review Test Part 2
-
 # Microservice Architecture
 
-## Week 8 - Microservice Architecture
+## Week 8 - Microservice Architecture, Part 1
 
 ### Day 36 - The Rise of Microservice Architecture
 
@@ -481,31 +481,55 @@
 
 0. [Intro to Kafka](https://github.com/giosakti/slide-201711-intro-to-kafka)
 
-### Day 40 - Decentralized Governance, Decentralized Data Management and Infrastructure Automation
+### Day 40
 
-#### - Session 1: Decentralized Governance & Data Management
+#### - Session 1: Build API using Golang, Part 1 (Hands-on)
+
+#### - Session 2: Build API using Golang, Part 2 (Hands-on)
+
+## Week 9 - Microservice Architecture, Part 2
+
+### Day 41
+
+#### - Session 1: Build API using Golang, Part 3 (Hands-on)
+
+#### - Session 2: Build API using Golang, Part 4 (Hands-on)
+
+### Day 42 - Decentralized Governance and Data Management
+
+#### - Session 1: Decentralized Governance
 
 0. [Decentralized Governance](https://github.com/giosakti/slide-201711-decentralized-governance)
 1. Implications of Decentralized Governance
 2. The 'Tolerant Reader'
 3. Consumer-driven Contracts
 4. The Importance of Self-testing Code
-5. [Decentralized Data Management](https://github.com/giosakti/slide-201711-decentralized-data-management)
-6. Sharing Database is Forbidden
-7. Transactionless Design
 
-#### - Session 2: Infrastructure Automation
+#### - Session 2: Decentralized Data Management
+
+0. [Decentralized Data Management](https://github.com/giosakti/slide-201711-decentralized-data-management)
+1. Sharing Database is Forbidden
+2. Transactionless Design
+
+### Day 43 - Infrastructure Automation
+
+#### - Session 1: Infrastructure Automation
 
 0. [Intro to CI](https://github.com/giosakti/slide-201712-intro-to-ci)
 1. What is CI?
 2. Tools of CI
 3. What is CD?
+4. Exercises with CircleCI
 
-#### - Session 2: CI Exercises with CircleCI
+#### - Session 2: Recap of what we have learned
 
-# Team Project: Building Simplified GoJek Web App
+### Day 44 - Final Project Introduction
 
-## Week 10 - Team Project Part 1
+### Day 45 - Final Project Preparation
+
+# Final Project: Building Simplified GoJek Web App
+
+## Week 10 - Final Project Part 1
 
 ### Day 46
 
@@ -532,7 +556,7 @@
 #### Session 1 - Building Simplified GoJek Web App, Iteration 1
 #### Session 2 - Building Simplified GoJek Web App, Iteration 1
 
-# Week 11: Team Project Part 2
+# Week 11: Final Project Part 2
 
 ### Day 51
 
