@@ -140,55 +140,46 @@
 
 #### - Session 2: Written Test and Live Code Interview
 
+1. [Written Test](http://slides.com/qblfrb/introduction-to-ruby-on-rails/fullscreen)
+2. [Solutions](http://slides.com/qblfrb/ruby-test-week-2-28/fullscreen)
+
 # Beginning Ruby on Rails
 
 ## Week 3 - Building Simplified GoFood Web App, Part 1
 
-### Day 1
+### Day 11
 
-#### Session 1 - Introduction
+#### - Session 1: Introduction to Rails
 
+0. [Presentation Slide](http://slides.com/qblfrb/introduction-to-ruby-on-rails-29/fullscreen)
 1. Philosophy and Brief History of Ruby on Rails
 2. Installations
 
-   PostgreSQL
-   Rails 5  
+#### - Session 2: Your First Rails App
 
-#### Session 2 - Your First Rails App
-
-0. [Presentation Slide](http://slides.com/qblfrb/introduction-to-ruby-on-rails/fullscreen?token=wRZ6eGH5)
+0. [Presentation Slide](http://slides.com/qblfrb/introduction-to-ruby-on-rails/fullscreen)
 1. Hello, Rails!
-2. Rails Application Architecture
-3. Rails Project Explanation and Discussion
+2. Rails Project Explanation and Discussion
 
-   Explanation and Discussion of Rails Project that will be developed throughout the whole Rails training
+### Day 12
 
-### Day 2
+#### - Session 1: The Simplified GoFood Web App, Concept
 
-#### Session 1 - The Simplified GoFood Web App, Concept
+1. [Presentation Slide](http://slides.com/qblfrb/the-architecture-of-rails-application/fullscreen)
+2. The Architecture of Rails Application
 
-1. Incremental Development
-2. Use Cases
-3. Page Flow
-4. Data Model
+#### - Session 2: The Simplified GoFood Web App, Iteration 1
 
-#### Session 2 - The Simplified GoFood Web App, Iteration 1
-
-0. [Presentation Slide](http://slides.com/qblfrb/simplified-go-food-web-app-iteration-1/fullscreen?token=BwYAAxIx)
+0. [Presentation Slide](http://slides.com/qblfrb/simplified-go-food-web-app-iteration-1/fullscreen)
 1. Set Up
-
-   Creating Database  
-   Scaffold  
-   Applying Migration
-
 2. Displaying List of Foods
 3. Styling List of Foods
 
-### Day 3
+### Day 13
 
-#### Session 1 - Validation and Unit Testing, Part 1
+#### - Session 1: Validation and Unit Testing, Part 1
 
-#### Session 2 - Validation and Unit Testing, Part 2
+#### - Session 2: Validation and Unit Testing, Part 2
 
 ### Day 4
 
