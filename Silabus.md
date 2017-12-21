@@ -483,17 +483,17 @@
 
 ### Day 40
 
-#### - Session 1: Build API using Golang, Part 1 (Hands-on)
+#### - Session 1: Build API using Golang, Part 1 (Extra Material)
 
-#### - Session 2: Build API using Golang, Part 2 (Hands-on)
+#### - Session 2: Build API using Golang, Part 2 (Extra Material)
 
 ## Week 9 - Microservice Architecture, Part 2
 
 ### Day 41
 
-#### - Session 1: Build API using Golang, Part 3 (Hands-on)
+#### - Session 1: Build API using Golang, Part 3 (Extra Material)
 
-#### - Session 2: Build API using Golang, Part 4 (Hands-on)
+#### - Session 2: Build API using Golang, Part 4 (Extra Material)
 
 ### Day 42 - Decentralized Governance and Data Management
 
@@ -521,7 +521,7 @@
 3. What is CD?
 4. Exercises with CircleCI
 
-#### - Session 2: Recap of what we have learned
+#### - Session 2: Recap of everything that we have learned
 
 ### Day 44 - Final Project Introduction
 
