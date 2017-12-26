@@ -373,15 +373,17 @@
 
 ### Day 29
 
-#### - Session 1: Introduction to Go Lang, Part 1
+#### - Session 1: Introduction to Go Lang, Part 1 (Extra Material)
 
-#### - Session 2: Introduction to Go Lang, Part 2
+0. [Material](https://github.com/a8m/go-lang-cheat-sheet/blob/master/golang_refcard.pdf)
+
+#### - Session 2: Introduction to Go Lang, Part 2 (Extra Material)
 
 ### Day 30
 
-#### - Session 1: Introduction to Go Lang, Part 3
+#### - Session 1: Introduction to Go Lang, Part 3 (Extra Material)
 
-#### - Session 2: Introduction to Go Lang, Part 4
+#### - Session 2: Introduction to Go Lang, Part 4 (Extra Material)
 
 # Ruby in Depth
 
@@ -413,58 +415,91 @@
 
 ### Day 34
 
-#### - Session 1: Design Pattern in Ruby, Part 1
-
-#### - Session 2: Design Pattern in Ruby, Part 2
-
-### Day 35
-
 #### - Session 1: In Depth with Ruby, Review Test Part 1
 
 0. [Presentation Slide](http://slides.com/qblfrb/ruby-in-depth-review-test/fullscreen)
 
-#### - Session 1: In Depth with Ruby, Review Test Part 2
+#### - Session 2: In Depth with Ruby, Review Test Part 2
+
+### Day 35
+
+#### - Session 1: Design Pattern in Ruby, Part 1
+
+0. [Patterns in Software Engineering](https://github.com/giosakti/slide-201711-patterns-software-engineering)
+
+#### - Session 2: Design Pattern in Ruby, Part 2
 
 # Microservice Architecture
 
-## Week 8 - Microservice Architecture
+## Week 8 - Microservice Architecture, Part 1
 
 ### Day 36 - The Rise of Microservice Architecture
 
 #### - Session 1: Microservice Architecture Explained
 
-1. 4W of Microservice Architecture (What, Why, When and Where)
-2. Simplified Take on Microservice vs Monolithic Architecture (In Depth Differences Will be Explained in Bits and Pieces on Later Session)
+0. [Intro to Microservices](https://github.com/giosakti/slide-201711-intro-to-microservices)
+1. [Organized Around Capabilities](https://github.com/giosakti/slide-201711-organized-around-capabilities)
+2. 4W of Microservice Architecture (What, Why, When and Where)
+3. Simplified Take on Microservice vs Monolithic Architecture
 
 #### - Session 2: Services
 
+0. [Componentization via Services](https://github.com/giosakti/slide-201711-componentization-via-services)
 1. 4W of Services
 2. How small is 'Micro' in Microservices?
 3. Exploring Public Services (API)
 
-### Day 37 - Inter-services Communication
+### Day 37 - Designing Microservices Application
+
+#### - Session 1: DDD
+
+0. [Intro to DDD](https://github.com/giosakti/slide-201711-intro-to-ddd)
+1. [Building Domain Knowledge](https://github.com/giosakti/slide-201711-building-domain-knowledge)
+2. [Model Driven Design](https://github.com/giosakti/slide-201711-model-driven-design)
+
+#### - Session 2: Exercises (with Ruby & Rails)
+
+### Day 38 - Inter-services Communication (Synchronous)
 
 #### - Session 1: Synchronous Communication with Remote Procedure Invocation (RPI)
 
+0. [Dumb Pipes, Smart Endpoints 1 - Synchronous Communication](https://github.com/giosakti/slide-201711-dumb-pipes-smart-endpoints-1)
 1. The Move Towards Coarse-grained Communication
 2. Available RPI Protocols (SOAP, REST, gRPC, Apache Thrift)
 3. In Depth with REST
 
-#### - Session 2: Asynchronous Communication with Messaging
-
-1. Available Messaging Protocols (Apache Kafka, RabbitMQ, NSQ, etc)
-2. Exercise: Simple Messaging Implementation (with Ruby & Rails)
-
-### Day 38 - Designing Microservices Application
-
-#### - Session 1: DDD
-
 #### - Session 2: Exercises (with Ruby & Rails)
 
-### Day 39 - Decentralized Governance & Data Management
+### Day 39 - Inter-services Communication (Asynchronous)
+
+#### - Session 1: Asynchronous Communication with Messaging
+
+0. [Dumb Pipes, Smart Endpoints 2 - Asynchronous Communication](https://github.com/giosakti/slide-201711-dumb-pipes-smart-endpoints-2)
+1. Available Messaging Protocols (Apache Kafka, RabbitMQ, NSQ, etc)
+
+#### - Session 2: Exercises (with Apache Kafka)
+
+0. [Intro to Kafka](https://github.com/giosakti/slide-201711-intro-to-kafka)
+
+### Day 40
+
+#### - Session 1: Build API using Golang, Part 1 (Extra Material)
+
+#### - Session 2: Build API using Golang, Part 2 (Extra Material)
+
+## Week 9 - Microservice Architecture, Part 2
+
+### Day 41
+
+#### - Session 1: Build API using Golang, Part 3 (Extra Material)
+
+#### - Session 2: Build API using Golang, Part 4 (Extra Material)
+
+### Day 42 - Decentralized Governance and Data Management
 
 #### - Session 1: Decentralized Governance
 
+0. [Decentralized Governance](https://github.com/giosakti/slide-201711-decentralized-governance)
 1. Implications of Decentralized Governance
 2. The 'Tolerant Reader'
 3. Consumer-driven Contracts
@@ -472,22 +507,29 @@
 
 #### - Session 2: Decentralized Data Management
 
+0. [Decentralized Data Management](https://github.com/giosakti/slide-201711-decentralized-data-management)
 1. Sharing Database is Forbidden
 2. Transactionless Design
 
-### Day 40 - Infrastructure Automation
+### Day 43 - Infrastructure Automation
 
-#### - Session 1: CI & CD Explained
+#### - Session 1: Infrastructure Automation
 
-1. 4W of CI
-2. 4W of CD
-3. Tools of CI
+0. [Intro to CI](https://github.com/giosakti/slide-201712-intro-to-ci)
+1. What is CI?
+2. Tools of CI
+3. What is CD?
+4. Exercises with CircleCI
 
-#### - Session 2: CI Exercises with TravisCI
+#### - Session 2: Recap of everything that we have learned
 
-# Team Project: Building Simplified GoJek Web App
+### Day 44 - Final Project Introduction
 
-## Week 10 - Team Project Part 1
+### Day 45 - Final Project Preparation
+
+# Final Project: Building Simplified GoJek Web App
+
+## Week 10 - Final Project Part 1
 
 ### Day 46
 
@@ -514,7 +556,7 @@
 #### Session 1 - Building Simplified GoJek Web App, Iteration 1
 #### Session 2 - Building Simplified GoJek Web App, Iteration 1
 
-# Week 11: Team Project Part 2
+# Week 11: Final Project Part 2
 
 ### Day 51
 
