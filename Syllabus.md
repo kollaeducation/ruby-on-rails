@@ -1,3 +1,5 @@
+# Programming in Ruby Syllabus
+
 # Beginning Ruby Programming Language
 
 ## Week 1 - Basic Concepts
@@ -18,7 +20,7 @@
 1. Assignments
 2. Flow Control - Conditional Statements
 3. Boolean Data Type and Its Operations
-4. Excercises
+4. Exercises
 5. [Solutions](http://slides.com/qblfrb/assignment-dan-condition-13/fullscreen)
 
 ### Day 2 
@@ -27,7 +29,7 @@
 
 0. [Presentation Slide](http://slides.com/qblfrb/loop-dan-iterasi/fullscreen)
 1. Loop and Iteration with Ruby
-2. Excercises
+2. Exercises
 3. [Solutions](http://slides.com/qblfrb/loop-dan-iterasi-14/fullscreen)
 
 #### - Session 2: Basic Data Types in Ruby
@@ -36,7 +38,7 @@
 1. Basic Data Types in Ruby
 2. String Data Type and Its Operations
 3. Numeric Data Type and Its Operations
-4. Excercises
+4. Exercises
 5. [Solutions](http://slides.com/qblfrb/basic-data-typesin-ruby-15/fullscreen)
 
 ### Day 3
@@ -46,14 +48,14 @@
 0. [Presentation Slide](http://slides.com/qblfrb/array-in-ruby/fullscreen)
 1. Array in Ruby
 3. Array Operations
-5. Excercises
+5. Exercises
 
 #### - Session 2: Hash
 
 0. [Presentation Slide](http://slides.com/qblfrb/hash-in-ruby/fullscreen)
 1. Hash in Ruby
 2. Hash Operations
-3. Excercises
+3. Exercises
 4. [Solutions](http://slides.com/qblfrb/hash-in-ruby-19/fullscreen)
 
 ### Day 4
@@ -63,7 +65,7 @@
 0. [Presentation Slide](http://slides.com/qblfrb/methods-and-blocks/fullscreen)
 1. Methods in Ruby
 2. Arguments and Parameters
-3. Excercises
+3. Exercises
 
 #### - Session 2: Blocks, Procs, and Lambda
 
@@ -71,7 +73,7 @@
 1. Blocks in Ruby
 2. Procs in Ruby
 3. Lambda in Ruby
-4. Excercises
+4. Exercises
 
 ### Day 5
 
@@ -79,7 +81,7 @@
 
 0. [Presentation Slide](http://slides.com/qblfrb/i-o-with-ruby/fullscreen)
 1. Reading and Writing File in Ruby
-2. Excercises
+2. Exercises
 3. [Solutions](http://slides.com/qblfrb/i-o-with-ruby-22/fullscreen)
 
 #### - Session 2: Written Test and Live Code Interview
@@ -98,7 +100,7 @@
 1. Class and Object in Ruby
 2. Constant and Variable in Ruby
 3. Inheritance
-4. Excercises
+4. Exercises
 
 #### - Session 2: Class and Object, Part 2
 
@@ -106,7 +108,7 @@
 2. Public Method and Private Method
 3. Introduction to `attr_reader`, `attr_writer`, and `attr_accessor`
 4. Coding conventions in Ruby
-5. Excercises
+5. Exercises
 
 ### Day 7
 
@@ -115,7 +117,7 @@
 0. [Presentation Slide](http://slides.com/qblfrb/module-in-ruby/fullscreen)
 1. Module in Ruby
 2. Introduction to Ruby's Basic Modules
-3. Excercises
+3. Exercises
 
 #### Session 2 - Code Conventions and Self-Testing Code
 
