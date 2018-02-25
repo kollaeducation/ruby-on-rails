@@ -1,137 +1,68 @@
-# ruby-on-rails
+# Programming in Ruby Curriculum
 
-### Requirement:
+This project contains curriculum for teaching programming using Ruby with additional emphasize on building strong fundamental aspects, such as: critical thinking, problem solving and object-oriented concept. This course also cover some design and architectural topics and useful tools and libraries.
 
-1. Memiliki pengetahuan tentang Linux
-2. Memahami minimal satu bahasa pemrograman: Java, C#, Python, dll
-3. Mengerti konsep Object Oriented Programming
-4. Mengerti Design Pattern
-5. Fasih berbahasa Inggris
+Ruby is used because of its human-centered nature and gentle learning curve. However, it must be noted by the mentors that they also have to teach the students to become language-agnostic, instead of depending to one particular language.
 
----
+Approximate time needed for completing this course is 10-12 weeks.
 
-### Soft skills outcomes:
+## Notes For Mentor
 
-1. Analysis skills
-2. Communication skills
-3. Collaboration Skills
-4. Solution oriented
+### Requirements
 
----
+1. Have good understanding of UNIX-based operating system
+2. Understand and have experience using Ruby in professional setting for at least two years
+3. Understand one programming language other than Ruby
+4. Have excellent understanding of Object-oriented Programming
+5. Fluent in English
 
-### Point:  
+### Preparation
 
-1. Agile Collaboration Workflows
-2. Best Practices
-3. Coding Standards
-4. DRY Principle
-5. Performance in mind
-6. Scalable design patterns
-7. Security in Mind
-8. Test-Driven and Behavior-Driven Development
+1. Ensure that mentors have PC with Mac OS or Linux (preferred) as the operating system
+2. Ensure that ruby is already installed. We can follow steps [here](https://rvm.io) to install Ruby using RVM
+3. Mentors must do a run through of each courses before delivering the materials
+4. Mentors must evaluate students assignment and give 1-on-1 feedback
 
----
+## Notes For Student
 
-### Target Lulusan:
+### Requirements
 
-1. Junior RoR Developer
-2. Intermediate RoR Developer
-3. Senior RoR Developer
+1. Have minimal understanding of UNIX-based operating system
+2. Understand at least one turing complete programming language: Java, C#, Python or others
+3. Have basic understanding of Object-oriented Programming
+4. Fluent in English
 
----
+### Preparation
 
-### Git Best Practices
+1. Ensure that students have PC with Mac OS or Linux (preferred) as the operating system
+2. Ensure that ruby is already installed. We can follow steps [here](https://rvm.io) to install Ruby using RVM
+3. Students must do a review every day and allocate time for practicing the new skills
 
-1. Environment Setup
-2. Repository
-3. Tagging
-4. Branching and Merging
-5. Branch Management
-6. Branching Workflows
-7. Rebasing
+### Course Format
 
----
+1. Onsite
+2. Online group discussion
 
-### Ruby Best Practices
+### Intended Outcomes
 
-1. Environment Setup
-2. Classes, Objects, and Modules
-3. Data Structure Linked Lists
-4. Arrays and Hashes
-5. Methods, Block and Sorting
-6. Hashes and Symbols
-7. Refactoring
-8. Blocks, Procs, Lambdas
-9. Files and Serializing Data
-10. Error Handling
+Hard-skills:
 
----
+1. Students understand syntaxes of Ruby and can write a program using it
+2. Students can build web application using Ruby on Rails framework
+3. Students can consume and build web API using Ruby on Rails framework
+4. Students understand some important design patterns and can utilize it as necessary
+5. Students can understand advanced ruby concept, such as metaprogramming
+6. Students can implement multiple services that communciate with each others
 
-### Ruby on Rails Best Practices
+Soft-skills:
 
-1. Environment setup
-2. Console & generator
-3. Model and Active Records
-4. Controller and View
-5. Forms
-6. Routes
-7. Assets Pipeline
-8. Custom libraries
-9. Rake Automation
-10. Scaffolding
-11. Cookies and Session
-12. Ruby Gem (Authentication, Uploader)
-13. Testing
-14. API
-15. Rails Production Mode
+1. Students are able to express their critical thinking and solve problems with structured approach
+2. Students can communicate their ideas and problem clearly in class or using the online platform
+3. Students can pair with other students to work on a problem together
+4. Students can collaborate in group to achieve common objective
+5. Students can formulate and deliver solution by utilizing technical knowledge gained from this course
 
----
+## Also see
 
-### Active Records Best Practices
-
-1. Connection Management
-2. Query interface
-3. Query optimization
-4. Database migrations
-
----
-
-### Testing Best Practices
-
-1. Testing with RSPec
-2. Automated Testing
-3. Test Driven Development
-
----
-
-### API Best Practices
-
-1. Design RESTful services architectures
-2. Implement low latency RESTful services
-3. API security (internet-facing, token, etc)
-
----
-
-### Setup Production Environment
-
-1. Create apps instance
-2. Create DB instance
-3. Setup Load Balancer
-4. Setup domain
-5. Setup EV certificate (HTTPS)
-6. Heroku
-
----
-
-### Continuous Integration and Deployment Best Practices
-
-1. Jenkins and Docker
-2. Security vulnerabilities Brakeman
-3. Deploying to staging and production
-
----
-
-### Troubleshooting Best Practices
-
-1. Code debugging
-2. Server performance memory issues
+1. `Outline.md` document that describes the outline of this course
+2. `Syllabus.md` document that contains detailed day-by-day syllabus, including necessary materials and link to the slides. The slides contain detailed run-through that mentor must deliver to the students.
