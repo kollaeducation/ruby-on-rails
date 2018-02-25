@@ -1,8 +1,8 @@
 # Programming in Ruby Curriculum
 
-This project contains curriculum for teaching programming using Ruby with additional emphasize on building strong fundamental aspects, such as: critical thinking, problem solving and object-oriented concept. This course also cover some design and architectural topics and useful tools and libraries.
+This project contains curriculum for teaching programming using Ruby with additional emphasize on **building strong fundamental aspects**, such as: critical thinking, problem solving and object-oriented concept. This course also cover some design and architectural topics and useful tools and libraries.
 
-Ruby is used because of its human-centered nature and gentle learning curve. However, it must be noted by the mentors that they also have to teach the students to become more language-agnostic, instead of depending to one particular language.
+Ruby is used because of its human-centered nature and gentle learning curve. However, it must be noted by the mentors that they also have to teach the students to become more **language-agnostic**, instead of depending to one particular language.
 
 Approximate time needed for completing this course is 10-12 weeks.
 
