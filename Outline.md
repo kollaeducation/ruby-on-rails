@@ -18,15 +18,15 @@
 
 ## Ruby on Rails Framework
 0. Generating New Project
-1. ActiveRecord (Model)
+1. TDD in Rails
+2. ActiveRecord (Model)
    - Migrations
    - Validations
    - Building Queries
-2. ActionController (Controller)
-3. Routing
-4. ActionView (View)
-5. ActiveModelSerializers (API presenter)
-6. TDD in Rails
+3. ActionController (Controller)
+4. Routing
+5. ActionView (View)
+6. ActiveModelSerializers (API presenter)
 7. Rails in production mode
 
 ## API
